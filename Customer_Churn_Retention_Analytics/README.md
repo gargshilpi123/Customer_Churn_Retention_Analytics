@@ -18,7 +18,6 @@ docs/powerbi_dashboard_steps.md -> complete dashboard instructions
 ## Recommended Resume Project Title
 Customer Churn & Retention Analytics | SQL, Python, Power BI
 
-
 ## Resume bullets
 - Analyzed 1,500 customer records using MySQL and Python to identify churn patterns across tenure, plans, regions, payment methods and support interactions.
 - Built a Power BI retention dashboard with churn rate, retention rate, revenue at risk and customer-segment analysis.
