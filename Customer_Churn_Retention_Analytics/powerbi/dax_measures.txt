@@ -1,0 +1,50 @@
+POWER BI DAX MEASURES
+=======================
+
+Assume the imported table is named customer_churn.
+
+Total Customers =
+COUNTROWS(customer_churn)
+
+Churned Customers =
+CALCULATE(
+    COUNTROWS(customer_churn),
+    customer_churn[Churn] = "Yes"
+)
+
+Retained Customers =
+CALCULATE(
+    COUNTROWS(customer_churn),
+    customer_churn[Churn] = "No"
+)
+
+Churn Rate % =
+DIVIDE([Churned Customers], [Total Customers], 0)
+
+Retention Rate % =
+DIVIDE([Retained Customers], [Total Customers], 0)
+
+Revenue at Risk =
+CALCULATE(
+    SUM(customer_churn[TotalSpend]),
+    customer_churn[Churn] = "Yes"
+)
+
+Monthly Revenue at Risk =
+CALCULATE(
+    SUM(customer_churn[MonthlyCharges]),
+    customer_churn[Churn] = "Yes"
+)
+
+Average Monthly Charge =
+AVERAGE(customer_churn[MonthlyCharges])
+
+Average Tenure =
+AVERAGE(customer_churn[TenureMonths])
+
+High Value Churned Customers =
+CALCULATE(
+    COUNTROWS(customer_churn),
+    customer_churn[Churn] = "Yes",
+    customer_churn[TotalSpend] >= AVERAGE(customer_churn[TotalSpend])
+)

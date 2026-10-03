@@ -1,0 +1,1501 @@
+CustomerID,Age,Gender,Region,Plan,TenureMonths,MonthlyCharges,TotalSpend,PaymentMethod,SupportInteractions,Churn
+CUST10001,22.0,Male,East,Premium,27,100.85,2878.88,Credit Card,1,Yes
+CUST10002,58.0,Male,East,Standard,2,45.72,97.65,Credit Card,1,Yes
+CUST10003,52.0,Male,West,Basic,41,25.41,1067.99,Credit Card,2,No
+CUST10004,40.0,Male,West,Standard,28,52.71,1616.0,UPI,3,Yes
+CUST10005,40.0,Female,North,Basic,47,25.06,1307.38,UPI,2,No
+CUST10006,62.0,Male,South,Standard,38,46.37,1599.3,UPI,3,No
+CUST10007,22.0,Male,South,Standard,48,39.31,1980.09,UPI,1,Yes
+CUST10008,54.0,Female,East,Basic,28,22.3,594.54,Credit Card,1,No
+CUST10009,28.0,Male,South,Basic,1,23.38,23.14,UPI,0,Yes
+CUST10010,22.0,Male,West,Standard,8,47.43,393.51,Credit Card,3,Yes
+CUST10011,45.0,Female,South,Basic,28,27.31,808.04,PayPal,2,Yes
+CUST10012,68.0,Male,East,Premium,24,90.45,2354.98,Credit Card,2,No
+CUST10013,56.0,Male,North,Standard,48,55.61,2816.58,Debit Card,1,Yes
+CUST10014,57.0,Male,West,Standard,25,54.42,1457.13,Credit Card,1,No
+CUST10015,55.0,Female,West,Basic,52,10.65,571.41,Bank Transfer,2,No
+CUST10016,58.0,Male,West,Standard,12,45.46,505.02,Credit Card,5,No
+CUST10017,44.0,Male,South,Premium,24,96.76,2100.96,PayPal,3,No
+CUST10018,24.0,Male,North,Basic,46,16.59,775.77,Credit Card,1,No
+CUST10019,61.0,Male,East,Basic,8,25.56,216.22,Bank Transfer,2,Yes
+CUST10020,41.0,Female,South,Basic,20,32.93,608.51,UPI,1,No
+CUST10021,44.0,Male,West,Standard,46,50.77,2322.45,Credit Card,1,No
+CUST10022,37.0,Female,East,Standard,36,42.28,1455.65,Credit Card,6,No
+CUST10023,27.0,Female,East,Standard,47,36.71,1768.09,Debit Card,2,No
+CUST10024,66.0,Female,West,Standard,31,56.56,1728.66,Bank Transfer,1,Yes
+CUST10025,58.0,Male,West,Basic,52,24.58,1207.0,Bank Transfer,0,No
+CUST10026,51.0,Female,South,Basic,53,25.23,1204.76,Credit Card,2,No
+CUST10027,38.0,Female,North,Basic,59,31.77,1819.58,Debit Card,0,No
+CUST10028,60.0,Male,North,Premium,8,89.2,723.27,Credit Card,2,No
+CUST10029,46.0,Female,South,Standard,36,61.0,2425.32,Credit Card,4,Yes
+CUST10030,41.0,Female,East,Standard,7,46.78,311.1,UPI,3,Yes
+CUST10031,41.0,Male,North,Standard,14,48.28,684.5,Debit Card,1,Yes
+CUST10032,29.0,Female,North,Basic,19,21.88,425.96,Credit Card,0,No
+CUST10033,22.0,Male,East,Basic,39,14.41,586.06,Bank Transfer,1,No
+CUST10034,46.0,Female,West,Basic,26,24.73,625.16,Bank Transfer,3,Yes
+CUST10035,64.0,Other,North,Premium,52,104.02,4986.52,Bank Transfer,3,Yes
+CUST10036,21.0,Male,East,Standard,18,28.35,562.71,Credit Card,1,Yes
+CUST10037,62.0,Female,North,Standard,38,,2075.36,PayPal,1,No
+CUST10038,61.0,Male,East,Basic,46,20.47,938.24,UPI,1,No
+CUST10039,32.0,Female,West,Basic,59,21.51,1304.28,UPI,3,No
+CUST10040,50.0,Female,West,Standard,15,46.65,634.24,Credit Card,3,No
+CUST10041,26.0,Male,East,Standard,45,56.49,2314.25,Bank Transfer,3,No
+CUST10042,57.0,Male,East,Premium,6,68.66,377.71,UPI,0,Yes
+CUST10043,54.0,Male,West,Standard,33,42.71,1497.55,Bank Transfer,0,No
+CUST10044,36.0,Male,East,Standard,25,48.62,1154.71,UPI,0,Yes
+CUST10045,21.0,Male,South,Standard,58,54.12,2952.44,Bank Transfer,0,No
+CUST10046,68.0,Male,West,Premium,47,81.08,3436.67,UPI,2,No
+CUST10047,41.0,Male,East,Standard,56,36.83,1866.62,PayPal,3,No
+CUST10048,64.0,Male,West,Standard,52,65.94,3391.79,Credit Card,2,Yes
+CUST10049,53.0,Female,East,Premium,25,70.15,1787.37,Credit Card,4,Yes
+CUST10050,58.0,Female,West,Basic,45,35.58,1644.96,Bank Transfer,0,Yes
+CUST10051,57.0,Female,North,Premium,2,83.08,166.28,UPI,0,Yes
+CUST10052,28.0,Male,North,Basic,34,16.3,554.81,UPI,2,No
+CUST10053,36.0,Female,North,Standard,3,64.18,205.19,Bank Transfer,0,Yes
+CUST10054,42.0,Female,East,Standard,44,54.64,2316.9,UPI,3,No
+CUST10055,43.0,Male,East,Standard,59,37.85,2126.62,Bank Transfer,4,No
+CUST10056,20.0,Male,North,Standard,41,38.93,1736.51,Debit Card,1,Yes
+CUST10057,46.0,Female,North,Standard,51,46.81,2510.59,Bank Transfer,2,No
+CUST10058,26.0,Male,West,Basic,15,19.61,295.59,Credit Card,2,Yes
+CUST10059,56.0,Female,West,Basic,60,26.14,1506.59,UPI,1,No
+CUST10060,53.0,Other,East,Basic,34,28.08,887.94,Bank Transfer,2,Yes
+CUST10061,65.0,Male,South,Standard,41,41.31,1538.28,Debit Card,2,No
+CUST10062,56.0,Male,South,Standard,47,61.95,3166.48,Debit Card,1,Yes
+CUST10063,37.0,Other,North,Basic,39,19.78,794.98,Debit Card,2,Yes
+CUST10064,68.0,Female,North,Premium,20,92.21,1678.37,UPI,4,Yes
+CUST10065,39.0,Male,West,Standard,37,53.51,1850.96,Debit Card,0,No
+CUST10066,34.0,Female,South,Standard,40,40.14,1543.79,Credit Card,1,No
+CUST10067,65.0,Female,East,Standard,52,54.99,2739.03,Bank Transfer,2,No
+CUST10068,37.0,Female,East,Basic,29,32.06,948.94,Credit Card,3,Yes
+CUST10069,21.0,Female,South,Standard,31,41.3,1264.78,UPI,3,Yes
+CUST10070,42.0,Male,North,Standard,31,47.69,1617.49,UPI,2,No
+CUST10071,59.0,Male,East,Basic,7,19.14,141.79,Credit Card,1,Yes
+CUST10072,27.0,Female,North,Premium,6,72.6,479.32,Credit Card,2,Yes
+CUST10073,42.0,Male,South,Premium,2,85.62,186.62,PayPal,2,Yes
+CUST10074,24.0,Female,West,Standard,40,43.72,1928.4,UPI,5,No
+CUST10075,53.0,Female,East,Premium,26,64.57,1872.9,Credit Card,1,Yes
+CUST10076,42.0,Male,West,Premium,52,90.97,4581.78,Bank Transfer,3,No
+CUST10077,35.0,Female,North,Basic,43,19.06,775.43,UPI,6,Yes
+CUST10078,29.0,Male,North,Standard,9,41.87,352.84,Credit Card,1,No
+CUST10079,47.0,Female,South,Standard,7,49.99,363.29,UPI,4,Yes
+CUST10080,52.0,Male,South,Basic,22,17.65,407.64,UPI,4,No
+CUST10081,66.0,Female,North,Basic,56,20.0,1029.64,Credit Card,1,No
+CUST10082,40.0,Female,West,Basic,3,23.03,74.66,Bank Transfer,1,No
+CUST10083,26.0,Male,North,Standard,12,62.0,797.77,Debit Card,3,Yes
+CUST10084,61.0,Female,East,Standard,2,59.52,123.59,Debit Card,3,Yes
+CUST10085,50.0,Female,East,Standard,25,46.76,1164.13,Debit Card,1,No
+CUST10086,54.0,Female,East,Basic,60,22.25,1246.63,Bank Transfer,2,No
+CUST10087,23.0,Female,North,Basic,42,22.81,968.78,Bank Transfer,0,No
+CUST10088,34.0,Other,South,Standard,30,42.07,1180.09,PayPal,2,Yes
+CUST10089,57.0,Male,East,Standard,9,40.83,379.63,Credit Card,0,Yes
+CUST10090,61.0,Female,South,Premium,22,71.8,1529.36,Bank Transfer,0,Yes
+CUST10091,40.0,Male,East,Premium,32,71.8,2192.85,UPI,2,No
+CUST10092,59.0,Female,North,Premium,17,95.04,1610.88,Debit Card,2,Yes
+CUST10093,61.0,Female,North,Premium,43,91.3,4034.87,Credit Card,1,No
+CUST10094,38.0,Male,East,Premium,59,69.95,4047.98,Bank Transfer,2,No
+CUST10095,64.0,Male,East,Standard,13,58.98,852.61,Credit Card,3,Yes
+CUST10096,32.0,Female,North,Basic,16,31.77,458.15,UPI,2,No
+CUST10097,30.0,Male,West,Basic,8,26.96,237.43,UPI,3,Yes
+CUST10098,53.0,Female,North,Standard,44,53.68,2126.08,Credit Card,1,No
+CUST10099,51.0,Male,West,Basic,28,26.94,714.85,PayPal,6,No
+CUST10100,25.0,Female,East,Basic,18,25.24,508.47,Bank Transfer,3,Yes
+CUST10101,61.0,Male,West,Premium,14,68.73,1020.13,UPI,2,No
+CUST10102,28.0,Male,West,Basic,5,26.84,139.81,UPI,3,Yes
+CUST10103,59.0,Female,South,Premium,29,86.26,2650.98,UPI,2,No
+CUST10104,18.0,Female,West,Standard,41,57.35,2327.43,Bank Transfer,2,Yes
+CUST10105,59.0,Male,North,Standard,15,49.2,791.52,Credit Card,3,Yes
+CUST10106,58.0,Male,South,Standard,1,47.35,44.23,Debit Card,5,Yes
+CUST10107,58.0,Female,North,Basic,29,35.22,1097.63,Debit Card,3,Yes
+CUST10108,52.0,Female,South,Standard,41,54.77,2485.16,UPI,1,No
+CUST10109,42.0,Male,West,Basic,21,23.81,544.36,UPI,1,No
+CUST10110,54.0,Female,South,Premium,16,79.88,1358.25,Credit Card,3,Yes
+CUST10111,32.0,Female,North,Basic,10,26.68,278.35,PayPal,5,Yes
+CUST10112,58.0,Female,South,Basic,45,21.32,973.45,Credit Card,2,No
+CUST10113,46.0,Female,West,Standard,52,41.97,2153.96,Credit Card,2,No
+CUST10114,41.0,Female,East,Standard,47,39.05,2001.35,Debit Card,1,No
+CUST10115,44.0,Male,East,Standard,32,61.79,2061.2,UPI,5,No
+CUST10116,47.0,Female,South,Standard,44,43.77,1917.56,Credit Card,2,Yes
+CUST10117,19.0,Female,South,Basic,24,29.11,749.4,UPI,1,No
+CUST10118,25.0,Female,East,Standard,2,54.2,98.85,Bank Transfer,1,Yes
+CUST10119,30.0,Male,East,Basic,23,25.7,637.73,Credit Card,3,Yes
+CUST10120,23.0,Male,West,Basic,43,41.21,1910.88,PayPal,0,No
+CUST10121,40.0,Female,East,Basic,39,30.27,1121.83,Debit Card,3,No
+CUST10122,52.0,Male,West,Basic,60,26.62,1450.72,UPI,3,No
+CUST10123,52.0,Female,West,Basic,60,20.62,1307.74,Credit Card,2,No
+CUST10124,42.0,Male,North,Standard,15,55.57,786.85,Bank Transfer,0,Yes
+CUST10125,62.0,Female,South,Basic,1,32.13,35.96,Bank Transfer,0,Yes
+CUST10126,47.0,Female,South,Basic,17,33.55,514.47,Credit Card,3,Yes
+CUST10127,22.0,Male,North,Standard,53,54.8,2760.79,Credit Card,3,No
+CUST10128,57.0,Male,North,Basic,49,28.93,1288.93,Debit Card,6,No
+CUST10129,47.0,Female,West,Standard,6,53.91,346.81,Credit Card,3,Yes
+CUST10130,51.0,Female,South,Premium,10,91.88,943.9,PayPal,2,No
+CUST10131,47.0,Male,North,Standard,34,40.33,1490.04,UPI,3,No
+CUST10132,46.0,Female,South,Premium,40,87.32,3883.21,UPI,5,No
+CUST10133,22.0,Female,South,Basic,59,26.2,1598.71,PayPal,2,Yes
+CUST10134,47.0,Male,North,Basic,46,27.62,1208.25,Bank Transfer,1,No
+CUST10135,59.0,Male,North,Standard,13,46.9,561.16,Bank Transfer,2,No
+CUST10136,33.0,Male,West,Standard,3,47.6,155.73,Debit Card,2,No
+CUST10137,49.0,Male,West,Premium,39,86.56,3220.3,Debit Card,1,Yes
+CUST10138,19.0,Male,South,Basic,34,20.08,748.65,Debit Card,3,Yes
+CUST10139,36.0,Male,East,Standard,56,44.94,2751.25,Debit Card,0,No
+CUST10140,40.0,Female,West,Standard,35,64.98,2360.99,Debit Card,0,No
+CUST10141,69.0,Male,West,Basic,31,14.98,479.65,Credit Card,3,No
+CUST10142,29.0,Female,North,Basic,19,28.7,604.84,Debit Card,4,No
+CUST10143,32.0,Male,West,Premium,6,93.0,595.01,Debit Card,3,Yes
+CUST10144,39.0,Male,North,Basic,53,29.36,1634.39,Debit Card,3,No
+CUST10145,69.0,Female,North,Premium,50,90.51,4506.78,Credit Card,3,Yes
+CUST10146,62.0,Female,South,Standard,10,50.24,505.66,Debit Card,1,Yes
+CUST10147,19.0,Male,East,Standard,43,47.89,2029.54,UPI,4,Yes
+CUST10148,30.0,Male,North,Standard,22,40.66,991.3,Bank Transfer,3,No
+CUST10149,60.0,Male,South,Premium,27,81.32,2284.31,Bank Transfer,7,Yes
+CUST10150,21.0,Female,South,Basic,51,25.62,1400.28,Credit Card,1,No
+CUST10151,62.0,Male,South,Basic,51,22.65,1049.09,Credit Card,3,No
+CUST10152,32.0,Male,West,Standard,12,40.12,523.58,Debit Card,3,Yes
+CUST10153,65.0,Male,South,Standard,19,62.46,1177.1,Credit Card,1,No
+CUST10154,33.0,Male,North,Basic,50,17.37,922.5,Debit Card,0,Yes
+CUST10155,40.0,Female,North,Basic,56,26.91,1369.53,PayPal,1,No
+CUST10156,52.0,Female,North,Basic,5,20.03,109.83,Credit Card,2,Yes
+CUST10157,24.0,Female,North,Basic,51,29.54,1574.58,Debit Card,4,No
+CUST10158,46.0,Male,East,Basic,30,26.49,795.22,Bank Transfer,5,Yes
+CUST10159,44.0,Male,South,Premium,36,95.09,3309.53,UPI,2,No
+CUST10160,58.0,Male,South,Basic,5,20.28,98.2,Credit Card,0,Yes
+CUST10161,69.0,Female,West,Premium,41,94.15,3731.79,Credit Card,1,Yes
+CUST10162,52.0,Female,East,Premium,41,77.19,2939.54,PayPal,2,No
+CUST10163,39.0,Female,North,Basic,40,33.85,1356.76,Credit Card,1,No
+CUST10164,39.0,Other,South,Standard,48,55.96,2685.45,UPI,7,Yes
+CUST10165,39.0,Other,South,Standard,57,47.0,2653.89,Bank Transfer,3,Yes
+CUST10166,60.0,Female,West,Standard,51,52.85,2842.73,Debit Card,1,No
+CUST10167,34.0,Male,South,Basic,45,37.14,1658.53,Bank Transfer,2,No
+CUST10168,26.0,Male,North,Basic,59,25.51,1384.05,Credit Card,3,No
+CUST10169,35.0,Male,East,Basic,41,32.31,1440.56,Debit Card,0,No
+CUST10170,19.0,Female,South,Standard,41,47.21,1923.07,Debit Card,5,No
+CUST10171,23.0,Male,North,Premium,33,81.8,2818.61,PayPal,2,No
+CUST10172,22.0,Female,East,Standard,47,37.48,1945.78,Credit Card,1,No
+CUST10173,58.0,Female,North,Standard,5,62.16,332.19,Credit Card,1,No
+CUST10174,55.0,Female,West,Premium,31,98.34,3105.05,PayPal,2,Yes
+CUST10175,54.0,Male,West,Standard,26,58.4,1548.62,Credit Card,1,No
+CUST10176,42.0,Male,South,Basic,55,29.94,1789.79,Bank Transfer,1,Yes
+CUST10177,55.0,Male,East,Premium,5,88.78,479.94,UPI,1,Yes
+CUST10178,26.0,Female,East,Standard,39,55.37,2028.36,UPI,2,No
+CUST10179,64.0,Female,East,Basic,12,34.02,423.68,Bank Transfer,3,No
+CUST10180,44.0,Female,North,Standard,54,58.74,3458.89,Bank Transfer,5,No
+CUST10181,66.0,Male,South,Premium,52,92.54,5181.3,Credit Card,7,No
+CUST10182,25.0,Male,North,Basic,15,31.75,441.69,PayPal,2,No
+CUST10183,43.0,Male,East,Standard,53,46.88,2474.33,PayPal,2,No
+CUST10184,54.0,Female,North,Basic,30,20.09,611.14,Bank Transfer,4,No
+CUST10185,43.0,Female,East,Basic,59,19.83,1119.33,UPI,6,No
+CUST10186,41.0,Male,East,Basic,44,27.46,1268.04,UPI,2,No
+CUST10187,26.0,Female,West,Standard,3,41.4,124.79,UPI,1,Yes
+CUST10188,37.0,Male,South,Premium,13,77.71,975.33,Credit Card,1,Yes
+CUST10189,30.0,Female,North,Basic,25,30.36,739.35,UPI,2,No
+CUST10190,33.0,Male,East,Basic,13,28.8,407.52,UPI,2,Yes
+CUST10191,53.0,Male,North,Basic,8,31.65,276.13,UPI,4,Yes
+CUST10192,50.0,Female,North,Basic,59,15.34,976.31,Debit Card,2,No
+CUST10193,49.0,Male,West,Standard,53,45.07,2630.09,UPI,2,No
+CUST10194,36.0,Male,West,Standard,27,48.97,1466.98,UPI,1,No
+CUST10195,67.0,Male,East,Standard,13,41.96,549.95,Debit Card,2,No
+CUST10196,22.0,Male,West,Standard,11,68.77,696.92,PayPal,2,Yes
+CUST10197,35.0,Female,North,Standard,55,58.47,3460.3,Bank Transfer,2,No
+CUST10198,24.0,Female,North,Basic,20,25.11,521.96,Credit Card,1,No
+CUST10199,35.0,Female,South,Basic,1,33.14,32.6,Credit Card,2,Yes
+CUST10200,68.0,Male,North,Premium,24,82.37,2203.46,UPI,2,No
+CUST10201,37.0,Female,West,Standard,28,29.54,806.04,Debit Card,1,No
+CUST10202,65.0,Male,North,Premium,38,75.7,3163.34,Bank Transfer,1,No
+CUST10203,43.0,Male,East,Premium,21,95.37,2063.59,Credit Card,3,Yes
+CUST10204,54.0,Male,West,Standard,56,48.11,2446.46,Credit Card,2,No
+CUST10205,41.0,Female,East,Premium,39,111.95,4755.82,Debit Card,2,Yes
+CUST10206,31.0,Female,North,Standard,60,57.36,3674.55,Bank Transfer,3,No
+CUST10207,57.0,Female,South,Basic,23,33.44,800.92,PayPal,1,Yes
+CUST10208,68.0,Female,East,Basic,40,30.51,1263.37,Bank Transfer,2,No
+CUST10209,31.0,Female,West,Basic,22,19.7,410.93,UPI,3,Yes
+CUST10210,58.0,Female,South,Basic,42,28.98,1152.88,Bank Transfer,1,No
+CUST10211,31.0,Female,South,Standard,45,45.84,1869.76,Credit Card,1,No
+CUST10212,55.0,Male,West,Standard,20,61.07,1140.68,UPI,1,Yes
+CUST10213,59.0,Male,West,Standard,57,49.17,2729.89,PayPal,4,Yes
+CUST10214,41.0,Male,South,Standard,52,64.19,3401.16,Debit Card,2,No
+CUST10215,56.0,Female,North,Basic,54,26.0,1304.0,PayPal,4,No
+CUST10216,32.0,Male,East,Standard,14,55.94,800.91,Credit Card,1,No
+CUST10217,22.0,Female,West,Standard,44,49.52,2087.22,Credit Card,2,No
+CUST10218,23.0,Male,West,Basic,7,24.6,164.6,UPI,3,Yes
+CUST10219,41.0,Female,South,Basic,7,21.66,168.08,PayPal,2,Yes
+CUST10220,64.0,Male,North,Basic,59,19.07,1258.25,Debit Card,2,No
+CUST10221,24.0,Male,East,Basic,10,32.17,346.96,Bank Transfer,1,No
+CUST10222,41.0,Male,West,Premium,52,74.88,3550.98,Credit Card,3,No
+CUST10223,54.0,Male,West,Standard,26,60.18,1659.03,Bank Transfer,1,Yes
+CUST10224,28.0,Female,North,Standard,19,59.84,1067.89,UPI,0,Yes
+CUST10225,55.0,Male,South,Basic,5,26.48,135.74,Credit Card,3,No
+CUST10226,33.0,Female,South,Premium,41,95.06,4274.02,Bank Transfer,3,Yes
+CUST10227,60.0,Male,North,Standard,44,39.66,1716.5,Bank Transfer,4,No
+CUST10228,48.0,Male,West,Basic,29,24.98,800.01,UPI,2,No
+CUST10229,46.0,Female,North,Standard,49,50.09,2591.47,Credit Card,2,No
+CUST10230,27.0,Male,East,Standard,20,41.94,810.47,Credit Card,1,Yes
+CUST10231,42.0,Other,West,Standard,34,63.19,1978.48,PayPal,4,No
+CUST10232,62.0,Female,East,Basic,18,22.85,443.95,UPI,3,No
+CUST10233,19.0,Female,West,Standard,35,53.83,1885.51,Bank Transfer,4,Yes
+CUST10234,57.0,Male,South,Basic,9,22.49,185.41,UPI,0,No
+CUST10235,43.0,Male,West,Basic,29,25.69,687.41,Bank Transfer,2,Yes
+CUST10236,55.0,Female,South,Basic,33,34.62,1271.25,Credit Card,2,No
+CUST10237,52.0,Male,North,Premium,34,78.83,2555.48,UPI,2,No
+CUST10238,40.0,Male,South,Basic,27,26.46,794.9,UPI,2,No
+CUST10239,34.0,Male,South,Standard,39,53.85,2204.85,Credit Card,2,Yes
+CUST10240,50.0,Female,East,Basic,31,,666.37,Credit Card,3,Yes
+CUST10241,25.0,Female,South,Premium,17,78.69,1316.89,UPI,1,No
+CUST10242,48.0,Female,South,Standard,13,38.46,535.45,Bank Transfer,3,Yes
+CUST10243,22.0,Female,South,Premium,39,73.28,2845.89,UPI,2,No
+CUST10244,51.0,Male,South,Basic,57,28.75,1501.82,Credit Card,1,No
+CUST10245,50.0,Female,East,Basic,46,26.54,1160.48,PayPal,2,No
+CUST10246,22.0,Male,South,Standard,39,48.39,2055.69,Credit Card,4,No
+CUST10247,57.0,Female,West,Basic,56,21.88,1290.41,Credit Card,1,No
+CUST10248,39.0,Male,South,Premium,54,,4526.73,PayPal,2,No
+CUST10249,58.0,Other,West,Premium,31,96.04,2840.31,Bank Transfer,4,No
+CUST10250,20.0,Male,South,Standard,7,42.99,302.26,PayPal,5,Yes
+CUST10251,27.0,Male,North,Premium,39,79.36,3322.67,Bank Transfer,1,No
+CUST10252,43.0,Male,North,Standard,38,50.01,1744.43,UPI,0,No
+CUST10253,27.0,Male,West,Basic,17,29.96,569.85,Debit Card,2,No
+CUST10254,35.0,Male,West,Standard,51,36.35,2019.12,Debit Card,1,No
+CUST10255,52.0,Female,North,Basic,53,21.66,1113.49,PayPal,4,No
+CUST10256,25.0,Male,East,Premium,20,102.48,2237.19,Bank Transfer,2,Yes
+CUST10257,53.0,Female,East,Basic,29,26.9,819.09,Debit Card,1,Yes
+CUST10258,23.0,Male,North,Basic,12,32.64,409.93,Debit Card,1,Yes
+CUST10259,27.0,Female,South,Standard,11,51.3,525.21,Debit Card,1,Yes
+CUST10260,48.0,Male,East,Basic,16,18.74,329.61,Debit Card,0,No
+CUST10261,59.0,Female,West,Basic,22,23.68,520.48,Bank Transfer,3,Yes
+CUST10262,26.0,Female,West,Standard,17,49.71,909.9,Credit Card,3,Yes
+CUST10263,33.0,Male,North,Basic,10,23.66,228.53,Debit Card,4,No
+CUST10264,66.0,Female,North,Standard,27,41.59,1086.73,PayPal,2,No
+CUST10265,69.0,Male,South,Basic,38,17.89,756.12,UPI,4,Yes
+CUST10266,48.0,Male,North,Basic,20,16.91,341.33,UPI,1,Yes
+CUST10267,41.0,Female,East,Basic,33,20.86,628.61,Debit Card,1,No
+CUST10268,36.0,Female,North,Standard,17,49.26,907.64,Credit Card,1,Yes
+CUST10269,49.0,Male,North,Premium,43,80.37,3283.08,Credit Card,1,No
+CUST10270,48.0,Male,North,Basic,39,27.19,1159.37,Credit Card,1,No
+CUST10271,33.0,Female,South,Premium,58,90.98,5813.06,Credit Card,2,No
+CUST10272,19.0,Female,West,Standard,4,41.73,152.9,Credit Card,6,Yes
+CUST10273,25.0,Other,North,Standard,52,38.32,2048.7,Debit Card,1,No
+CUST10274,67.0,Female,West,Standard,21,41.47,971.83,Credit Card,2,Yes
+CUST10275,39.0,Female,South,Standard,4,60.86,268.95,PayPal,3,No
+CUST10276,43.0,Male,North,Premium,42,80.29,3424.63,Credit Card,3,No
+CUST10277,42.0,Female,South,Standard,11,53.73,620.41,Debit Card,4,No
+CUST10278,58.0,Male,East,Standard,11,43.31,492.1,Bank Transfer,1,Yes
+CUST10279,21.0,Female,North,Basic,59,30.78,1715.62,Credit Card,5,Yes
+CUST10280,22.0,Male,North,Basic,14,17.07,249.41,UPI,0,Yes
+CUST10281,32.0,Female,West,Standard,33,50.31,1615.89,Bank Transfer,5,No
+CUST10282,43.0,Female,East,Basic,13,19.57,247.89,UPI,2,No
+CUST10283,52.0,Female,South,Basic,8,27.53,218.57,Credit Card,5,Yes
+CUST10284,43.0,Female,West,Basic,1,28.89,31.42,Bank Transfer,1,Yes
+CUST10285,40.0,Male,West,Basic,1,,29.94,UPI,1,Yes
+CUST10286,66.0,Female,South,Standard,29,55.48,1536.8,Debit Card,0,No
+CUST10287,26.0,Male,East,Standard,27,67.11,1633.7,Credit Card,0,No
+CUST10288,47.0,Male,North,Standard,3,36.96,103.57,Credit Card,2,Yes
+CUST10289,46.0,Male,South,Basic,21,16.78,393.01,Bank Transfer,2,Yes
+CUST10290,42.0,Male,East,Standard,17,48.1,813.98,Debit Card,2,No
+CUST10291,59.0,Male,North,Standard,35,46.66,1539.91,Credit Card,1,No
+CUST10292,31.0,Female,West,Standard,60,47.34,3159.8,UPI,1,No
+CUST10293,67.0,Female,West,Standard,42,39.57,1505.66,PayPal,0,Yes
+CUST10294,35.0,Female,South,Standard,56,61.23,3451.22,Credit Card,2,No
+CUST10295,46.0,Male,South,Standard,12,38.62,499.13,Credit Card,1,No
+CUST10296,45.0,Male,North,Premium,13,87.79,1221.18,Debit Card,4,No
+CUST10297,62.0,Male,East,Standard,46,58.37,2528.29,UPI,1,No
+CUST10298,40.0,Female,North,Standard,19,49.76,998.11,UPI,4,Yes
+CUST10299,32.0,Female,South,Standard,51,42.16,2229.51,Bank Transfer,4,No
+CUST10300,19.0,Male,East,Basic,28,21.58,633.58,Credit Card,2,No
+CUST10301,36.0,Female,East,Premium,13,86.5,1077.88,Debit Card,3,Yes
+CUST10302,60.0,Male,East,Basic,51,30.03,1651.54,Debit Card,1,No
+CUST10303,18.0,Male,North,Basic,34,36.44,1267.5,Debit Card,1,Yes
+CUST10304,64.0,Male,West,Premium,49,85.95,4462.21,UPI,3,No
+CUST10305,46.0,Male,East,Standard,28,56.5,1750.81,Bank Transfer,3,Yes
+CUST10306,25.0,Female,West,Basic,8,19.57,170.37,Debit Card,2,Yes
+CUST10307,33.0,Female,South,Basic,41,30.09,1322.66,Bank Transfer,3,No
+CUST10308,46.0,Male,West,Basic,8,20.31,156.59,Credit Card,3,Yes
+CUST10309,34.0,Female,South,Standard,40,46.5,1696.13,UPI,1,No
+CUST10310,23.0,Female,West,Basic,26,22.05,588.45,Debit Card,2,No
+CUST10311,52.0,Female,North,Premium,48,71.69,3123.14,UPI,1,Yes
+CUST10312,52.0,Female,North,Premium,53,96.72,5418.98,Credit Card,2,No
+CUST10313,24.0,Male,East,Standard,25,49.27,1308.24,PayPal,3,Yes
+CUST10314,32.0,Female,East,Standard,53,43.35,2352.32,PayPal,1,No
+CUST10315,30.0,Male,East,Basic,7,18.35,120.36,Bank Transfer,3,Yes
+CUST10316,52.0,Female,South,Basic,7,28.64,219.06,Bank Transfer,1,Yes
+CUST10317,55.0,Male,West,Standard,60,52.88,3271.48,Credit Card,3,Yes
+CUST10318,55.0,Female,South,Basic,35,30.81,1092.67,UPI,2,No
+CUST10319,66.0,Male,East,Basic,28,21.46,615.82,Debit Card,4,No
+CUST10320,57.0,Male,West,Basic,10,16.99,156.01,Bank Transfer,2,Yes
+CUST10321,34.0,Female,East,Basic,18,24.83,475.05,Credit Card,2,No
+CUST10322,23.0,Female,East,Standard,42,61.06,2342.36,Credit Card,1,Yes
+CUST10323,49.0,Male,West,Standard,50,56.13,2882.96,UPI,4,No
+CUST10324,65.0,Female,West,Premium,55,97.79,5040.88,Credit Card,3,Yes
+CUST10325,68.0,Female,South,Standard,25,64.81,1532.26,Bank Transfer,1,Yes
+CUST10326,29.0,Male,South,Premium,28,72.64,1934.9,Debit Card,1,Yes
+CUST10327,30.0,Female,North,Standard,10,55.65,502.6,UPI,0,Yes
+CUST10328,19.0,Male,East,Premium,5,81.66,447.58,Bank Transfer,4,Yes
+CUST10329,25.0,Female,West,Standard,27,49.67,1444.26,UPI,3,No
+CUST10330,46.0,Male,South,Basic,35,15.72,498.97,Credit Card,1,No
+CUST10331,46.0,Male,South,Premium,7,78.2,499.52,Credit Card,3,No
+CUST10332,37.0,Female,North,Basic,25,28.12,753.78,Credit Card,1,Yes
+CUST10333,34.0,Female,South,Basic,39,29.5,1037.17,Credit Card,0,No
+CUST10334,61.0,Female,North,Basic,49,27.79,1366.04,UPI,1,No
+CUST10335,41.0,Female,West,Standard,57,63.78,3357.73,Debit Card,1,No
+CUST10336,60.0,Female,East,Standard,21,48.24,1043.59,Credit Card,4,No
+CUST10337,68.0,Female,North,Standard,24,53.64,1441.37,Credit Card,3,Yes
+CUST10338,34.0,Female,North,Premium,53,93.58,4651.47,PayPal,7,No
+CUST10339,28.0,Male,West,Basic,42,27.43,1279.33,Credit Card,1,No
+CUST10340,67.0,Male,West,Standard,17,61.55,1140.95,Debit Card,2,Yes
+CUST10341,51.0,Male,West,Basic,42,32.38,1518.92,UPI,2,No
+CUST10342,33.0,Female,North,Premium,10,85.19,910.31,Credit Card,1,No
+CUST10343,50.0,Male,North,Basic,27,29.62,870.55,PayPal,4,Yes
+CUST10344,44.0,Male,North,Basic,19,23.51,460.45,Credit Card,1,Yes
+CUST10345,65.0,Female,West,Standard,60,61.4,4018.52,UPI,3,No
+CUST10346,31.0,Male,West,Standard,3,40.65,112.75,UPI,0,No
+CUST10347,69.0,Male,West,Standard,52,47.69,2636.52,Bank Transfer,4,No
+CUST10348,66.0,Female,North,Standard,17,61.55,1086.45,UPI,1,Yes
+CUST10349,27.0,Female,North,Standard,3,35.06,96.05,Bank Transfer,1,Yes
+CUST10350,26.0,Male,West,Standard,40,54.48,2101.08,Debit Card,3,No
+CUST10351,45.0,Male,West,Basic,41,28.18,1094.77,UPI,5,No
+CUST10352,20.0,Male,East,Basic,9,29.43,261.99,Bank Transfer,2,No
+CUST10353,33.0,Female,North,Basic,3,20.07,56.82,UPI,2,No
+CUST10354,40.0,Female,North,Basic,7,28.35,190.6,UPI,0,No
+CUST10355,68.0,Male,North,Standard,25,45.52,1098.31,Credit Card,3,No
+CUST10356,69.0,Female,East,Standard,8,46.42,383.23,Debit Card,1,Yes
+CUST10357,25.0,Male,West,Standard,43,40.22,1607.83,Debit Card,2,No
+CUST10358,64.0,Male,East,Standard,5,41.3,196.8,Credit Card,0,No
+CUST10359,22.0,Other,South,Standard,48,53.23,2477.81,Debit Card,5,No
+CUST10360,56.0,Male,West,Standard,53,41.1,2175.68,Credit Card,2,No
+CUST10361,61.0,Male,North,Basic,44,21.48,858.53,UPI,3,No
+CUST10362,64.0,Male,West,Basic,57,20.07,1281.07,Bank Transfer,2,No
+CUST10363,29.0,Female,West,Standard,57,40.3,2219.2,UPI,0,No
+CUST10364,64.0,Female,East,Standard,3,45.78,132.29,UPI,2,Yes
+CUST10365,24.0,Other,West,Basic,21,13.23,283.96,Credit Card,3,Yes
+CUST10366,44.0,Male,East,Basic,46,23.96,1199.03,Credit Card,1,Yes
+CUST10367,42.0,Male,South,Standard,21,50.27,1056.2,UPI,1,Yes
+CUST10368,34.0,Female,South,Standard,45,55.57,2387.48,Bank Transfer,3,No
+CUST10369,19.0,Male,West,Basic,47,26.76,1288.52,Bank Transfer,4,No
+CUST10370,58.0,Female,East,Standard,60,47.52,2869.01,UPI,1,No
+CUST10371,35.0,Female,North,Premium,20,109.1,2166.89,Bank Transfer,4,Yes
+CUST10372,52.0,Male,West,Basic,21,28.62,671.01,Bank Transfer,0,No
+CUST10373,39.0,Female,North,Premium,2,94.66,211.87,Bank Transfer,1,Yes
+CUST10374,37.0,Male,East,Basic,18,22.53,415.12,Bank Transfer,3,Yes
+CUST10375,64.0,Male,North,Standard,17,42.88,666.97,Credit Card,1,Yes
+CUST10376,22.0,Female,East,Standard,28,44.25,1269.63,Credit Card,0,No
+CUST10377,56.0,Female,South,Basic,26,21.29,614.18,Debit Card,1,Yes
+CUST10378,56.0,Female,South,Premium,52,71.48,4102.23,UPI,1,No
+CUST10379,37.0,Female,East,Standard,47,55.66,2478.44,Bank Transfer,2,No
+CUST10380,31.0,Other,West,Premium,44,81.5,3377.39,Debit Card,4,No
+CUST10381,18.0,Other,South,Basic,1,18.87,17.62,Debit Card,2,Yes
+CUST10382,66.0,Female,West,Premium,29,84.55,2648.97,Bank Transfer,4,No
+CUST10383,67.0,Male,South,Premium,44,81.18,3599.82,Credit Card,0,No
+CUST10384,30.0,Female,North,Standard,15,38.36,560.65,Bank Transfer,2,Yes
+CUST10385,19.0,Female,North,Basic,26,25.06,632.96,Credit Card,4,Yes
+CUST10386,24.0,Male,North,Standard,44,46.79,1977.63,Debit Card,2,Yes
+CUST10387,21.0,Male,East,Standard,48,46.85,2460.58,Debit Card,1,No
+CUST10388,61.0,Male,East,Premium,52,96.12,4948.91,Debit Card,3,Yes
+CUST10389,64.0,Male,South,Standard,26,44.71,1108.62,Credit Card,3,Yes
+CUST10390,25.0,Female,South,Basic,24,25.37,643.15,Credit Card,3,No
+CUST10391,56.0,Male,West,Basic,23,32.13,768.4,Debit Card,2,No
+CUST10392,27.0,Female,East,Standard,41,43.54,1887.57,Debit Card,3,Yes
+CUST10393,37.0,Female,North,Premium,26,89.85,2524.93,Bank Transfer,1,No
+CUST10394,49.0,Female,North,Basic,25,28.39,654.58,Credit Card,3,Yes
+CUST10395,55.0,Male,South,Standard,11,59.72,591.52,Debit Card,4,Yes
+CUST10396,63.0,Male,South,Premium,29,84.91,2243.54,Credit Card,5,Yes
+CUST10397,20.0,Female,West,Basic,15,29.24,462.94,PayPal,5,Yes
+CUST10398,28.0,Female,East,Basic,32,24.2,856.17,Bank Transfer,2,Yes
+CUST10399,32.0,Female,West,Standard,54,61.93,3253.4,PayPal,4,No
+CUST10400,34.0,Female,East,Standard,47,60.33,3039.28,PayPal,1,No
+CUST10401,69.0,Male,South,Basic,29,26.08,802.02,Debit Card,2,No
+CUST10402,58.0,Female,East,Premium,59,82.66,5438.63,UPI,3,Yes
+CUST10403,34.0,Male,East,Standard,59,54.05,3200.35,Debit Card,5,No
+CUST10404,68.0,Male,East,Premium,27,92.76,2345.57,Bank Transfer,1,No
+CUST10405,43.0,Female,North,Premium,46,93.78,4608.74,Debit Card,4,No
+CUST10406,44.0,Male,East,Premium,21,88.47,2006.76,Debit Card,0,Yes
+CUST10407,40.0,Male,South,Standard,53,46.75,2615.53,PayPal,1,No
+CUST10408,25.0,Male,West,Basic,23,26.79,671.56,Bank Transfer,4,No
+CUST10409,66.0,Male,West,Standard,16,40.3,632.97,PayPal,1,No
+CUST10410,18.0,Female,East,Basic,9,20.53,194.35,Credit Card,2,Yes
+CUST10411,27.0,Male,West,Standard,51,43.44,2122.49,Credit Card,1,No
+CUST10412,29.0,Female,East,Basic,18,27.82,499.87,Debit Card,1,Yes
+CUST10413,32.0,Female,North,Standard,49,39.66,1852.68,Debit Card,1,No
+CUST10414,24.0,Male,East,Basic,6,25.66,143.8,UPI,2,Yes
+CUST10415,18.0,Male,West,Basic,31,26.85,755.7,Debit Card,3,No
+CUST10416,53.0,Female,North,Basic,26,28.01,763.01,Bank Transfer,4,Yes
+CUST10417,68.0,Female,North,Standard,27,66.15,1951.37,Credit Card,1,No
+CUST10418,24.0,Female,South,Standard,11,46.6,496.8,UPI,3,No
+CUST10419,33.0,Female,West,Basic,5,33.35,165.82,Bank Transfer,2,Yes
+CUST10420,44.0,Male,East,Premium,21,79.2,1498.18,UPI,1,No
+CUST10421,66.0,Male,West,Premium,29,111.18,3194.65,Debit Card,0,No
+CUST10422,54.0,Female,West,Basic,48,26.69,1232.3,Credit Card,2,Yes
+CUST10423,57.0,Male,East,Standard,28,57.98,1666.18,Credit Card,2,Yes
+CUST10424,48.0,Female,East,Standard,15,54.15,893.37,Bank Transfer,1,Yes
+CUST10425,39.0,Female,South,Basic,16,24.21,391.76,UPI,2,Yes
+CUST10426,28.0,Female,North,Standard,37,54.18,2102.12,Credit Card,1,No
+CUST10427,62.0,Male,South,Basic,27,21.84,622.23,PayPal,3,No
+CUST10428,59.0,Male,East,Premium,55,101.29,5200.68,UPI,5,No
+CUST10429,19.0,Male,North,Premium,27,72.58,1913.11,Bank Transfer,4,No
+CUST10430,,Male,North,Premium,35,80.77,2614.62,Debit Card,2,No
+CUST10431,22.0,Female,North,Standard,4,45.41,181.09,PayPal,1,No
+CUST10432,56.0,Male,East,Standard,12,61.96,814.31,Credit Card,2,No
+CUST10433,60.0,Male,West,Premium,52,79.08,4136.03,Credit Card,1,No
+CUST10434,24.0,Male,West,Basic,21,33.12,695.77,Bank Transfer,2,No
+CUST10435,40.0,Male,South,Basic,26,37.45,921.17,Bank Transfer,1,Yes
+CUST10436,24.0,Female,East,Standard,36,55.01,1917.48,UPI,1,Yes
+CUST10437,47.0,Male,West,Basic,4,18.38,81.32,Credit Card,0,No
+CUST10438,66.0,Other,East,Basic,31,21.13,633.19,Debit Card,1,No
+CUST10439,22.0,Male,South,Basic,21,27.55,613.79,Bank Transfer,1,No
+CUST10440,38.0,Female,South,Standard,9,57.49,470.47,Bank Transfer,4,No
+CUST10441,68.0,Male,East,Basic,26,18.94,457.1,Debit Card,4,No
+CUST10442,33.0,Male,South,Basic,27,24.38,637.54,Credit Card,4,No
+CUST10443,24.0,Female,West,Basic,12,25.98,342.41,UPI,2,No
+CUST10444,43.0,Female,West,Standard,33,51.79,1620.62,Bank Transfer,0,No
+CUST10445,44.0,Female,North,Premium,45,90.46,4314.47,Debit Card,3,Yes
+CUST10446,52.0,Male,East,Basic,17,17.18,273.62,UPI,2,Yes
+CUST10447,34.0,Male,South,Standard,58,50.39,3024.4,PayPal,2,Yes
+CUST10448,67.0,Female,East,Standard,37,59.45,2263.66,Credit Card,1,No
+CUST10449,45.0,Male,South,Basic,47,24.59,1198.29,UPI,3,No
+CUST10450,32.0,Female,South,Premium,5,63.37,305.12,UPI,3,No
+CUST10451,67.0,Female,South,Standard,47,47.33,2081.39,UPI,0,Yes
+CUST10452,66.0,Female,North,Standard,21,42.7,981.91,Bank Transfer,2,Yes
+CUST10453,43.0,Female,West,Basic,43,30.13,1328.34,UPI,2,No
+CUST10454,19.0,Female,North,Basic,49,26.94,1249.63,UPI,0,No
+CUST10455,49.0,Male,South,Premium,16,88.58,1404.43,Credit Card,1,No
+CUST10456,46.0,Male,North,Standard,16,48.92,716.0,Bank Transfer,1,Yes
+CUST10457,25.0,Female,North,Premium,4,70.68,284.02,Credit Card,2,Yes
+CUST10458,50.0,Male,South,Premium,37,83.64,3073.81,Credit Card,4,No
+CUST10459,61.0,Male,West,Basic,47,25.79,1126.31,UPI,4,No
+CUST10460,23.0,Male,West,Standard,25,44.46,1109.01,,1,No
+CUST10461,55.0,Female,South,Standard,10,44.92,467.48,PayPal,0,No
+CUST10462,25.0,Female,East,Standard,19,56.7,1189.63,Bank Transfer,2,Yes
+CUST10463,56.0,Female,West,Basic,25,20.04,528.41,Bank Transfer,0,Yes
+CUST10464,39.0,Male,North,Basic,55,25.33,1407.83,Debit Card,4,No
+CUST10465,18.0,Male,West,Standard,8,36.52,312.44,UPI,1,Yes
+CUST10466,68.0,Female,North,Standard,21,56.65,1143.95,PayPal,4,Yes
+CUST10467,26.0,Male,North,Standard,39,45.63,1863.44,Debit Card,2,Yes
+CUST10468,48.0,Female,South,Basic,15,27.31,369.14,Bank Transfer,1,Yes
+CUST10469,27.0,Female,North,Basic,54,26.6,1315.69,UPI,3,No
+CUST10470,66.0,Male,West,Premium,55,85.27,4864.96,Credit Card,1,Yes
+CUST10471,56.0,Male,West,Standard,23,49.64,1075.91,UPI,1,No
+CUST10472,59.0,Male,South,Standard,45,48.63,2301.09,Credit Card,4,No
+CUST10473,40.0,Female,West,Standard,46,53.04,2537.64,Credit Card,1,No
+CUST10474,42.0,Female,West,Standard,41,59.91,2245.08,Credit Card,2,Yes
+CUST10475,50.0,Male,West,Standard,12,39.36,465.87,Credit Card,1,Yes
+CUST10476,58.0,Female,West,Standard,3,54.56,169.39,Debit Card,2,Yes
+CUST10477,62.0,Male,East,Premium,21,84.29,1870.92,Bank Transfer,4,Yes
+CUST10478,18.0,Male,North,Premium,8,98.94,854.48,Debit Card,1,No
+CUST10479,52.0,Female,West,Premium,18,71.77,1256.59,Bank Transfer,3,Yes
+CUST10480,23.0,Male,East,Standard,39,53.35,2255.59,UPI,3,Yes
+CUST10481,32.0,Male,West,Standard,36,52.76,1857.45,Credit Card,3,Yes
+CUST10482,61.0,Female,West,Standard,13,54.66,640.61,Credit Card,0,No
+CUST10483,31.0,Male,North,Premium,2,73.6,152.23,PayPal,4,Yes
+CUST10484,59.0,Female,South,Standard,14,42.14,562.33,UPI,1,Yes
+CUST10485,42.0,Male,North,Standard,28,57.92,1503.96,PayPal,3,No
+CUST10486,30.0,Male,North,Standard,47,59.33,2668.15,Debit Card,2,No
+CUST10487,35.0,Male,West,Standard,22,51.49,1225.83,Bank Transfer,0,No
+CUST10488,45.0,Male,West,Standard,18,38.05,754.13,Bank Transfer,3,Yes
+CUST10489,57.0,Male,West,Basic,34,23.05,871.14,PayPal,2,No
+CUST10490,49.0,Male,West,Standard,5,51.56,249.2,Credit Card,0,Yes
+CUST10491,66.0,Female,East,Standard,14,40.84,571.93,PayPal,5,No
+CUST10492,63.0,Male,East,Basic,3,25.16,81.26,Debit Card,2,No
+CUST10493,57.0,Male,West,Premium,32,85.21,2644.75,Bank Transfer,3,Yes
+CUST10494,49.0,Male,East,Standard,27,54.86,1458.6,UPI,2,No
+CUST10495,33.0,Male,East,Basic,35,25.95,864.84,UPI,3,No
+CUST10496,39.0,Male,North,Premium,38,82.75,3226.01,Debit Card,3,No
+CUST10497,24.0,Female,East,Standard,24,52.81,1324.52,Bank Transfer,4,Yes
+CUST10498,37.0,Male,West,Standard,53,49.55,2547.51,Debit Card,2,No
+CUST10499,66.0,Female,East,Standard,56,54.13,2744.31,UPI,3,Yes
+CUST10500,40.0,Female,South,Premium,7,78.13,580.76,UPI,3,No
+CUST10501,23.0,Male,North,Standard,56,43.59,2528.07,Bank Transfer,2,No
+CUST10502,51.0,Male,North,Standard,12,43.83,498.7,UPI,1,Yes
+CUST10503,68.0,Male,East,Basic,15,34.59,502.88,UPI,1,No
+CUST10504,63.0,Female,East,Standard,32,50.15,1782.23,UPI,0,No
+CUST10505,32.0,Male,West,Standard,2,51.18,106.32,UPI,3,Yes
+CUST10506,41.0,Female,West,Standard,22,48.47,1099.4,UPI,3,No
+CUST10507,45.0,Female,South,Standard,12,46.61,582.1,Bank Transfer,2,Yes
+CUST10508,30.0,Female,West,Premium,29,77.17,2484.05,Bank Transfer,4,Yes
+CUST10509,31.0,Female,East,Standard,49,70.06,3346.32,UPI,2,No
+CUST10510,30.0,Other,South,Basic,56,27.23,1466.63,Credit Card,2,Yes
+CUST10511,69.0,Male,West,Premium,13,92.94,1187.54,UPI,1,No
+CUST10512,56.0,Male,North,Standard,33,76.35,2711.56,Credit Card,3,Yes
+CUST10513,61.0,Male,East,Premium,29,76.13,2045.74,Credit Card,3,No
+CUST10514,60.0,Female,West,Premium,25,95.56,2258.8,Bank Transfer,5,Yes
+CUST10515,67.0,Female,East,Premium,38,105.78,3819.52,Debit Card,1,Yes
+CUST10516,23.0,Female,West,Standard,60,42.72,2665.74,UPI,1,No
+CUST10517,63.0,Male,North,Standard,25,57.27,1490.66,PayPal,3,No
+CUST10518,21.0,Female,East,Basic,4,30.65,120.37,Credit Card,0,No
+CUST10519,42.0,Female,West,Standard,55,46.48,2456.09,Credit Card,2,No
+CUST10520,48.0,Female,East,Standard,56,62.87,3753.17,Credit Card,2,No
+CUST10521,36.0,Female,West,Standard,20,54.53,989.15,Credit Card,5,Yes
+CUST10522,25.0,Male,South,Premium,31,79.52,2619.24,Bank Transfer,2,Yes
+CUST10523,27.0,Male,East,Basic,52,25.22,1240.96,Bank Transfer,2,No
+CUST10524,60.0,Female,South,Standard,31,46.44,1581.6,UPI,3,Yes
+CUST10525,34.0,Male,West,Standard,29,54.89,1577.5,Debit Card,4,No
+CUST10526,34.0,Male,North,Standard,56,59.67,3479.54,UPI,3,Yes
+CUST10527,66.0,Male,South,Basic,50,28.01,1297.72,Credit Card,3,No
+CUST10528,25.0,Male,North,Basic,31,22.26,659.6,UPI,3,No
+CUST10529,65.0,Female,East,Premium,10,86.67,913.62,UPI,2,Yes
+CUST10530,65.0,Female,North,Standard,27,51.7,1425.32,Credit Card,1,No
+CUST10531,49.0,Male,South,Basic,41,23.34,1023.45,Bank Transfer,3,No
+CUST10532,26.0,Male,West,Basic,17,25.04,435.87,,0,No
+CUST10533,26.0,Male,South,Standard,33,39.99,1353.0,Debit Card,0,No
+CUST10534,32.0,Female,North,Basic,40,26.89,1171.13,UPI,2,No
+CUST10535,48.0,Female,North,Standard,6,51.77,308.58,UPI,1,Yes
+CUST10536,25.0,Female,North,Standard,35,46.67,1791.75,Credit Card,1,No
+CUST10537,41.0,Male,West,Basic,45,26.43,1167.81,Credit Card,1,No
+CUST10538,24.0,Male,East,Standard,13,50.17,634.14,UPI,3,Yes
+CUST10539,46.0,Male,West,Basic,33,24.52,866.99,PayPal,3,Yes
+CUST10540,19.0,Female,North,Basic,43,26.59,1031.94,UPI,6,Yes
+CUST10541,54.0,Male,South,Premium,3,91.21,256.63,UPI,2,Yes
+CUST10542,20.0,Female,North,Standard,39,39.06,1395.06,UPI,1,No
+CUST10543,28.0,Female,South,Premium,16,85.43,1384.19,Debit Card,1,Yes
+CUST10544,27.0,Male,East,Basic,24,,553.64,Credit Card,3,Yes
+CUST10545,61.0,Male,West,Basic,39,26.93,947.64,Debit Card,4,No
+CUST10546,20.0,Male,South,Standard,1,47.26,44.21,PayPal,2,Yes
+CUST10547,40.0,Male,West,Standard,2,46.09,89.1,Bank Transfer,2,Yes
+CUST10548,48.0,Male,East,Premium,27,83.58,2177.07,PayPal,2,No
+CUST10549,44.0,Female,South,Basic,57,22.46,1179.56,Credit Card,5,No
+CUST10550,53.0,Male,West,Premium,1,50.8,47.65,UPI,2,Yes
+CUST10551,59.0,Male,South,Premium,48,81.08,4227.91,UPI,3,Yes
+CUST10552,38.0,Female,North,Standard,5,54.95,289.62,Credit Card,4,Yes
+CUST10553,61.0,Female,West,Basic,30,29.25,846.91,Credit Card,3,No
+CUST10554,34.0,Male,West,Standard,26,48.48,1207.48,Bank Transfer,2,Yes
+CUST10555,69.0,Female,North,Basic,29,34.48,917.57,UPI,0,No
+CUST10556,44.0,Female,West,Standard,5,46.47,226.95,UPI,1,Yes
+CUST10557,56.0,Female,West,Standard,46,52.02,2363.19,Debit Card,4,No
+CUST10558,63.0,Female,West,Premium,17,112.36,2099.07,UPI,1,No
+CUST10559,59.0,Male,South,Standard,47,54.82,2740.11,Credit Card,1,Yes
+CUST10560,62.0,Female,East,Standard,40,45.05,1811.76,Credit Card,0,No
+CUST10561,45.0,Male,East,Standard,34,55.68,1759.97,UPI,0,No
+CUST10562,20.0,Female,East,Standard,19,42.75,848.28,Debit Card,0,No
+CUST10563,43.0,Female,East,Premium,40,92.11,4074.66,PayPal,5,No
+CUST10564,27.0,Male,East,Basic,60,34.06,1874.33,UPI,4,No
+CUST10565,64.0,Male,East,Premium,56,81.42,4954.8,Credit Card,3,No
+CUST10566,30.0,Female,East,Premium,55,83.07,4293.01,Credit Card,3,No
+CUST10567,29.0,Female,East,Premium,14,79.62,1175.19,Bank Transfer,1,Yes
+CUST10568,30.0,Male,North,Standard,36,44.41,1503.55,Credit Card,0,Yes
+CUST10569,51.0,Female,North,Premium,24,92.7,2296.0,Credit Card,1,No
+CUST10570,47.0,Female,West,Basic,59,26.24,1474.28,Debit Card,2,No
+CUST10571,67.0,Female,West,Standard,58,48.49,2866.34,Debit Card,2,No
+CUST10572,39.0,Male,East,Basic,53,21.94,1200.07,UPI,0,No
+CUST10573,32.0,Male,North,Basic,10,15.77,163.39,UPI,2,Yes
+CUST10574,20.0,Female,West,Standard,20,56.77,1192.41,Credit Card,3,Yes
+CUST10575,18.0,Male,North,Basic,43,30.72,1208.92,Bank Transfer,4,No
+CUST10576,37.0,Female,South,Standard,45,54.3,2577.27,,1,No
+CUST10577,66.0,Male,South,Premium,22,99.43,2043.11,UPI,0,No
+CUST10578,45.0,Female,North,Basic,9,20.03,189.09,Credit Card,2,Yes
+CUST10579,64.0,Male,West,Standard,9,43.48,362.87,UPI,2,Yes
+CUST10580,23.0,Male,East,Basic,42,30.06,1269.43,Debit Card,2,Yes
+CUST10581,22.0,Female,South,Standard,28,56.12,1547.93,UPI,3,Yes
+CUST10582,61.0,Female,East,Standard,30,44.45,1483.94,Debit Card,1,No
+CUST10583,23.0,Female,North,Standard,49,50.32,2561.29,PayPal,2,No
+CUST10584,20.0,Female,South,Standard,2,47.6,87.53,Credit Card,3,Yes
+CUST10585,39.0,Female,East,Premium,46,78.14,3789.24,PayPal,1,Yes
+CUST10586,66.0,Female,South,Premium,17,99.13,1588.67,PayPal,1,Yes
+CUST10587,53.0,Male,West,Standard,56,46.68,2517.24,Debit Card,0,Yes
+CUST10588,23.0,Female,North,Standard,58,42.38,2416.89,Debit Card,0,No
+CUST10589,61.0,Female,North,Standard,31,38.17,1267.01,Debit Card,3,No
+CUST10590,61.0,Male,East,Basic,19,24.96,525.31,PayPal,2,Yes
+CUST10591,59.0,Male,West,Premium,14,102.04,1576.21,UPI,2,No
+CUST10592,64.0,Female,South,Basic,11,30.18,311.25,UPI,2,No
+CUST10593,30.0,Male,North,Premium,60,85.67,4694.5,Credit Card,2,No
+CUST10594,68.0,Female,West,Basic,12,25.76,334.55,Bank Transfer,3,Yes
+CUST10595,34.0,Other,South,Basic,27,28.99,754.09,Credit Card,4,No
+CUST10596,59.0,Female,North,Premium,29,89.65,2673.22,Credit Card,3,No
+CUST10597,48.0,Male,East,Premium,41,81.11,3708.93,Debit Card,4,Yes
+CUST10598,58.0,Male,South,Premium,51,96.47,4629.75,UPI,2,No
+CUST10599,50.0,Male,West,Premium,34,93.43,3120.93,Bank Transfer,2,Yes
+CUST10600,51.0,Male,South,Standard,46,39.9,2002.19,Bank Transfer,4,No
+CUST10601,50.0,Female,East,Basic,35,22.28,813.33,Credit Card,2,Yes
+CUST10602,58.0,Female,East,Basic,27,30.74,918.18,Debit Card,2,No
+CUST10603,56.0,Male,North,Standard,10,57.35,595.85,Bank Transfer,1,Yes
+CUST10604,24.0,Male,South,Basic,13,14.21,178.59,UPI,2,No
+CUST10605,60.0,Female,North,Premium,26,84.72,2372.6,Credit Card,4,Yes
+CUST10606,45.0,Male,East,Basic,3,31.85,101.96,Debit Card,1,Yes
+CUST10607,34.0,Female,West,Basic,19,25.21,529.47,UPI,1,Yes
+CUST10608,44.0,Male,West,Basic,28,23.32,656.07,PayPal,1,No
+CUST10609,68.0,Female,South,Basic,29,15.71,460.43,UPI,2,No
+CUST10610,62.0,Male,South,Basic,49,27.26,1297.33,Credit Card,2,No
+CUST10611,61.0,Female,East,Standard,59,50.33,2848.1,Bank Transfer,1,No
+CUST10612,42.0,Male,East,Basic,44,16.09,792.37,Debit Card,1,No
+CUST10613,58.0,Female,West,Standard,5,47.68,265.82,Bank Transfer,3,Yes
+CUST10614,38.0,Male,North,Premium,25,90.19,2292.0,Debit Card,3,No
+CUST10615,53.0,Male,North,Standard,44,42.46,2073.97,Credit Card,4,No
+CUST10616,51.0,Female,South,Standard,36,53.36,1879.38,UPI,2,No
+CUST10617,30.0,Male,South,Standard,28,31.27,951.73,Debit Card,6,Yes
+CUST10618,31.0,Male,South,Basic,27,27.6,774.76,Credit Card,4,No
+CUST10619,21.0,Male,West,Basic,25,29.34,775.86,UPI,0,Yes
+CUST10620,25.0,Male,North,Premium,35,101.9,3773.37,Bank Transfer,2,Yes
+CUST10621,40.0,Male,West,Standard,11,53.42,611.06,Bank Transfer,6,Yes
+CUST10622,42.0,Female,East,Basic,32,21.32,741.94,Debit Card,2,No
+CUST10623,26.0,Male,East,Standard,13,45.99,589.65,Credit Card,1,No
+CUST10624,39.0,Female,East,Premium,41,63.11,2812.16,UPI,2,No
+CUST10625,49.0,Female,North,Standard,52,46.21,2259.59,Debit Card,2,No
+CUST10626,30.0,Male,East,Standard,31,42.27,1236.98,Credit Card,1,Yes
+CUST10627,35.0,Female,North,Premium,24,76.62,1945.2,Bank Transfer,1,Yes
+CUST10628,37.0,Female,East,Standard,57,50.82,3085.11,PayPal,1,No
+CUST10629,44.0,Female,East,Standard,40,47.55,2089.36,Credit Card,5,Yes
+CUST10630,37.0,Male,East,Basic,26,20.76,518.4,Bank Transfer,0,Yes
+CUST10631,56.0,Male,South,Basic,2,24.06,43.9,UPI,2,Yes
+CUST10632,35.0,Male,South,Premium,1,80.85,81.79,Debit Card,2,Yes
+CUST10633,40.0,Female,South,Standard,14,41.67,637.39,UPI,1,Yes
+CUST10634,37.0,Other,North,Standard,15,50.58,844.98,Credit Card,2,No
+CUST10635,27.0,Female,East,Standard,44,59.46,2848.36,Credit Card,1,Yes
+CUST10636,53.0,Male,North,Basic,31,22.02,687.94,PayPal,0,Yes
+CUST10637,30.0,Female,South,Premium,60,76.78,5021.15,UPI,0,No
+CUST10638,33.0,Male,East,Basic,33,23.26,726.95,Debit Card,2,Yes
+CUST10639,59.0,Female,North,Premium,55,88.28,5353.84,UPI,7,Yes
+CUST10640,67.0,Male,West,Standard,34,45.68,1591.49,PayPal,2,Yes
+CUST10641,52.0,Female,South,Basic,22,33.26,721.23,Debit Card,1,No
+CUST10642,65.0,Female,North,Basic,43,24.48,1082.07,PayPal,1,Yes
+CUST10643,62.0,Male,East,Premium,27,84.98,2460.77,Bank Transfer,2,No
+CUST10644,43.0,Male,East,Basic,17,31.02,502.46,Debit Card,1,Yes
+CUST10645,58.0,Female,East,Basic,29,27.93,747.13,UPI,3,Yes
+CUST10646,35.0,Male,West,Standard,40,38.31,1626.32,UPI,1,No
+CUST10647,41.0,Female,South,Standard,23,53.68,1369.89,Bank Transfer,4,Yes
+CUST10648,45.0,Female,West,Standard,43,41.87,1872.67,Debit Card,3,No
+CUST10649,67.0,Female,South,Basic,59,26.59,1461.14,Credit Card,1,No
+CUST10650,62.0,Male,East,Premium,25,92.42,2406.49,Credit Card,2,No
+CUST10651,43.0,Male,North,Basic,18,25.85,430.71,UPI,6,Yes
+CUST10652,51.0,Male,East,Basic,25,31.55,762.54,Bank Transfer,0,Yes
+CUST10653,28.0,Female,South,Basic,51,22.0,1017.6,Bank Transfer,2,No
+CUST10654,59.0,Male,East,Basic,11,23.61,261.59,UPI,2,Yes
+CUST10655,46.0,Male,West,Basic,59,17.31,991.36,Credit Card,3,No
+CUST10656,45.0,Male,West,Basic,25,19.08,439.53,Credit Card,1,Yes
+CUST10657,57.0,Female,West,Basic,51,22.41,1106.32,Bank Transfer,1,No
+CUST10658,50.0,Male,North,Standard,48,37.51,1876.94,UPI,2,No
+CUST10659,21.0,Female,North,Premium,48,90.1,4167.37,Bank Transfer,2,No
+CUST10660,32.0,Female,West,Basic,55,27.68,1418.08,Credit Card,2,No
+CUST10661,27.0,Female,South,Basic,12,20.44,250.15,,2,Yes
+CUST10662,56.0,Female,North,Premium,36,68.64,2633.41,PayPal,4,Yes
+CUST10663,19.0,Female,South,Premium,6,80.8,524.86,Credit Card,2,Yes
+CUST10664,28.0,Female,West,Standard,18,64.21,1160.24,Credit Card,4,No
+CUST10665,49.0,Male,South,Basic,3,25.14,79.68,UPI,3,Yes
+CUST10666,54.0,Female,North,Standard,41,48.45,2151.99,UPI,1,No
+CUST10667,44.0,Female,East,Basic,37,30.62,1187.36,PayPal,1,No
+CUST10668,62.0,Female,North,Basic,45,20.03,915.77,PayPal,3,No
+CUST10669,65.0,Female,South,Standard,11,52.16,523.95,Bank Transfer,2,No
+CUST10670,24.0,Female,North,Standard,20,48.2,929.11,Credit Card,0,No
+CUST10671,67.0,Female,East,Standard,41,48.04,1911.26,UPI,2,No
+CUST10672,49.0,Male,South,Standard,50,50.39,2486.5,Bank Transfer,1,No
+CUST10673,51.0,Male,West,Basic,54,27.05,1620.2,Debit Card,1,No
+CUST10674,22.0,Male,South,Basic,5,22.65,107.13,PayPal,3,Yes
+CUST10675,50.0,Male,North,Standard,25,45.21,1151.89,UPI,2,Yes
+CUST10676,55.0,Male,North,Premium,1,82.71,92.48,Credit Card,1,Yes
+CUST10677,48.0,Male,North,Basic,50,30.59,1584.77,UPI,2,No
+CUST10678,22.0,Male,South,Standard,8,49.64,375.66,UPI,3,Yes
+CUST10679,45.0,Female,North,Basic,50,23.11,1284.04,Credit Card,1,Yes
+CUST10680,66.0,Male,South,Basic,10,20.19,196.65,Debit Card,5,Yes
+CUST10681,55.0,Female,West,Standard,1,35.48,32.31,Bank Transfer,1,Yes
+CUST10682,25.0,Female,West,Basic,53,22.19,1170.07,Credit Card,1,No
+CUST10683,67.0,Male,East,Standard,27,47.76,1228.84,Debit Card,2,No
+CUST10684,67.0,Male,West,Standard,26,43.15,1211.82,UPI,2,Yes
+CUST10685,26.0,Male,West,Basic,39,27.33,1010.86,Bank Transfer,4,Yes
+CUST10686,59.0,Female,East,Basic,17,27.86,511.68,UPI,2,Yes
+CUST10687,39.0,Male,West,Basic,42,29.42,1121.91,PayPal,3,No
+CUST10688,48.0,Female,North,Premium,26,106.11,3046.93,PayPal,1,No
+CUST10689,41.0,Female,West,Standard,17,49.87,770.88,UPI,1,No
+CUST10690,58.0,Female,South,Standard,24,40.28,1069.66,Credit Card,3,Yes
+CUST10691,69.0,Male,East,Basic,1,23.65,21.67,Bank Transfer,3,No
+CUST10692,59.0,Male,West,Standard,19,42.5,881.76,Credit Card,2,Yes
+CUST10693,66.0,Male,South,Basic,36,26.71,1041.27,Bank Transfer,4,No
+CUST10694,67.0,Male,North,Standard,9,29.52,273.86,UPI,1,Yes
+CUST10695,22.0,Male,South,Standard,8,40.98,297.65,Debit Card,0,Yes
+CUST10696,31.0,Female,South,Standard,40,61.71,2558.87,UPI,1,Yes
+CUST10697,55.0,Female,West,Basic,26,23.98,645.88,,3,No
+CUST10698,48.0,Female,West,Basic,9,15.55,143.11,PayPal,2,No
+CUST10699,,Female,East,Basic,45,27.54,1287.55,Credit Card,3,No
+CUST10700,22.0,Male,West,Standard,47,55.38,2896.94,PayPal,1,No
+CUST10701,45.0,Female,South,Premium,3,93.39,313.51,Credit Card,2,Yes
+CUST10702,50.0,Female,South,Basic,13,23.04,303.87,Bank Transfer,0,Yes
+CUST10703,26.0,Female,West,Standard,23,59.17,1252.3,PayPal,3,Yes
+CUST10704,26.0,Female,East,Standard,44,50.52,2066.11,Debit Card,1,No
+CUST10705,24.0,Male,East,Basic,5,26.04,137.81,Credit Card,1,No
+CUST10706,47.0,Male,South,Basic,49,26.01,1422.37,Bank Transfer,2,No
+CUST10707,18.0,Male,East,Basic,20,20.94,417.1,Bank Transfer,4,Yes
+CUST10708,47.0,Male,West,Standard,8,48.75,359.41,Debit Card,0,No
+CUST10709,42.0,Female,South,Standard,52,60.69,3085.41,UPI,4,Yes
+CUST10710,42.0,Male,North,Standard,6,63.57,375.59,Bank Transfer,1,Yes
+CUST10711,53.0,Female,North,Premium,8,80.04,716.68,Credit Card,2,No
+CUST10712,45.0,Female,North,Standard,57,46.12,2763.04,UPI,6,No
+CUST10713,55.0,Male,South,Premium,32,91.31,2705.49,Debit Card,1,Yes
+CUST10714,57.0,Male,East,Standard,28,40.16,1095.42,Credit Card,3,Yes
+CUST10715,65.0,Female,West,Premium,42,72.57,2775.71,Bank Transfer,5,No
+CUST10716,59.0,Female,North,Premium,38,78.1,3097.41,Debit Card,2,Yes
+CUST10717,44.0,Male,West,Standard,37,50.42,1955.09,PayPal,3,No
+CUST10718,43.0,Male,East,Premium,2,100.55,183.53,UPI,3,Yes
+CUST10719,30.0,Female,North,Premium,34,98.23,3252.36,UPI,1,Yes
+CUST10720,49.0,Male,South,Standard,17,60.29,1126.01,Debit Card,2,Yes
+CUST10721,25.0,Female,South,Standard,49,47.21,2502.75,Debit Card,3,Yes
+CUST10722,66.0,Male,West,Standard,31,54.26,1726.34,Bank Transfer,4,No
+CUST10723,61.0,Male,West,Premium,8,102.65,826.63,UPI,0,Yes
+CUST10724,24.0,Female,West,Standard,54,60.97,3682.29,Bank Transfer,1,No
+CUST10725,58.0,Female,East,Premium,18,90.56,1726.06,Debit Card,5,No
+CUST10726,24.0,Female,South,Standard,17,33.01,622.66,,4,No
+CUST10727,55.0,Male,South,Premium,57,78.7,4107.96,Credit Card,3,No
+CUST10728,22.0,Other,West,Basic,47,20.79,925.02,Bank Transfer,2,Yes
+CUST10729,43.0,Male,North,Standard,52,41.73,1967.82,Debit Card,2,No
+CUST10730,52.0,Male,South,Standard,40,51.18,2233.38,UPI,1,No
+CUST10731,55.0,Male,North,Premium,55,96.31,5576.37,UPI,1,No
+CUST10732,39.0,Male,South,Premium,7,79.83,524.77,Debit Card,3,Yes
+CUST10733,65.0,Female,South,Standard,36,55.37,2221.2,UPI,0,No
+CUST10734,58.0,Male,North,Standard,18,45.49,909.12,UPI,2,Yes
+CUST10735,28.0,Female,South,Basic,24,31.03,707.05,PayPal,1,No
+CUST10736,52.0,Male,West,Premium,15,80.42,1257.38,Credit Card,1,Yes
+CUST10737,55.0,Other,East,Basic,13,27.41,373.07,UPI,3,Yes
+CUST10738,35.0,Male,West,Standard,27,49.67,1208.17,Credit Card,4,Yes
+CUST10739,56.0,Female,West,Standard,56,50.63,2981.39,Bank Transfer,3,No
+CUST10740,64.0,Male,West,Standard,39,46.47,1719.35,UPI,4,No
+CUST10741,60.0,Male,South,Basic,21,31.62,729.29,Debit Card,3,Yes
+CUST10742,57.0,Female,West,Basic,27,27.3,799.36,Bank Transfer,1,No
+CUST10743,50.0,Female,West,Premium,32,78.84,2773.06,UPI,1,No
+CUST10744,32.0,Female,West,Standard,15,55.49,887.84,Credit Card,0,No
+CUST10745,59.0,Male,South,Basic,32,37.24,1115.75,UPI,2,No
+CUST10746,36.0,Female,North,Standard,42,38.96,1602.48,Credit Card,2,No
+CUST10747,45.0,Female,East,Basic,15,25.11,397.73,Bank Transfer,1,No
+CUST10748,34.0,Female,West,Premium,36,83.55,2920.97,Bank Transfer,1,Yes
+CUST10749,34.0,Male,West,Basic,43,30.55,1387.49,Bank Transfer,1,No
+CUST10750,26.0,Female,East,Basic,32,22.49,700.94,Bank Transfer,1,Yes
+CUST10751,67.0,Female,North,Basic,18,21.76,367.83,Bank Transfer,1,No
+CUST10752,25.0,Female,South,Standard,34,39.23,1352.49,Debit Card,0,No
+CUST10753,22.0,Male,East,Standard,48,47.95,2418.91,Credit Card,2,No
+CUST10754,66.0,Male,East,Standard,14,49.44,701.7,Debit Card,1,No
+CUST10755,46.0,Female,South,Standard,35,43.66,1591.07,PayPal,1,No
+CUST10756,40.0,Female,South,Basic,41,24.75,1011.07,PayPal,2,No
+CUST10757,56.0,Female,North,Basic,20,24.7,529.19,Bank Transfer,3,No
+CUST10758,37.0,Male,South,Basic,24,28.91,723.67,Credit Card,1,Yes
+CUST10759,24.0,Male,East,Premium,54,106.53,5904.57,Credit Card,2,No
+CUST10760,55.0,Female,North,Basic,22,26.84,587.99,Bank Transfer,0,Yes
+CUST10761,27.0,Male,West,Premium,36,78.41,2873.17,Credit Card,2,Yes
+CUST10762,46.0,Male,North,Basic,9,29.49,241.85,UPI,5,No
+CUST10763,67.0,Female,East,Basic,56,23.83,1396.77,Debit Card,3,Yes
+CUST10764,66.0,Female,South,Basic,36,29.14,991.31,Debit Card,4,No
+CUST10765,36.0,Female,West,Basic,46,33.53,1680.01,UPI,5,No
+CUST10766,58.0,Male,West,Standard,37,44.04,1757.75,PayPal,4,No
+CUST10767,49.0,Male,East,Standard,22,53.06,1186.17,Bank Transfer,4,Yes
+CUST10768,42.0,Female,East,Basic,21,25.13,573.31,UPI,3,No
+CUST10769,25.0,Male,East,Standard,43,50.12,2257.7,Debit Card,1,No
+CUST10770,37.0,Male,East,Standard,52,54.58,2642.55,PayPal,2,No
+CUST10771,51.0,Male,North,Premium,8,100.6,855.48,UPI,3,Yes
+CUST10772,69.0,Female,South,Premium,51,83.67,4775.29,UPI,2,No
+CUST10773,18.0,Female,North,Standard,50,50.14,2278.9,UPI,4,No
+CUST10774,55.0,Female,South,Premium,7,110.32,736.63,Credit Card,3,Yes
+CUST10775,62.0,Female,East,Standard,7,62.38,450.42,Credit Card,4,Yes
+CUST10776,67.0,Male,North,Standard,42,38.15,1588.43,Bank Transfer,3,No
+CUST10777,40.0,Male,North,Standard,51,42.71,2265.91,UPI,1,No
+CUST10778,24.0,Male,West,Basic,24,33.59,829.55,Credit Card,2,Yes
+CUST10779,32.0,Male,South,Standard,39,47.82,2001.79,Debit Card,2,No
+CUST10780,62.0,Male,North,Premium,60,96.99,5328.23,PayPal,0,No
+CUST10781,63.0,Male,East,Basic,20,20.67,412.13,UPI,1,Yes
+CUST10782,51.0,Male,East,Premium,14,79.01,1204.82,UPI,3,Yes
+CUST10783,24.0,Female,West,Premium,60,62.51,3674.87,Credit Card,2,No
+CUST10784,24.0,Female,West,Basic,17,33.12,569.14,PayPal,0,Yes
+CUST10785,42.0,Male,West,Standard,29,42.71,1120.61,Bank Transfer,3,No
+CUST10786,48.0,Male,East,Premium,27,69.67,1785.75,UPI,5,No
+CUST10787,19.0,Female,South,Premium,32,91.17,2923.29,Debit Card,5,No
+CUST10788,53.0,Female,West,Basic,17,27.64,464.13,UPI,1,No
+CUST10789,46.0,Female,South,Basic,41,26.57,1151.71,Bank Transfer,3,No
+CUST10790,18.0,Male,South,Standard,42,48.18,2093.6,Bank Transfer,0,Yes
+CUST10791,22.0,Female,West,Basic,13,25.69,365.25,PayPal,1,Yes
+CUST10792,41.0,Male,West,Basic,29,27.26,860.15,UPI,5,Yes
+CUST10793,55.0,Male,South,Basic,4,23.53,89.7,Debit Card,2,No
+CUST10794,60.0,Male,East,Basic,14,23.79,301.05,UPI,4,Yes
+CUST10795,40.0,Male,West,Standard,60,48.81,3186.27,Bank Transfer,3,No
+CUST10796,33.0,Male,West,Standard,31,54.39,1639.57,Debit Card,2,Yes
+CUST10797,68.0,Male,North,Standard,38,51.6,1914.45,Credit Card,1,Yes
+CUST10798,41.0,Female,East,Standard,54,51.65,2607.38,Bank Transfer,3,No
+CUST10799,34.0,Male,North,Standard,43,38.43,1739.18,Debit Card,4,No
+CUST10800,41.0,Male,West,Basic,48,24.48,1129.95,Bank Transfer,1,Yes
+CUST10801,18.0,Male,North,Basic,43,29.48,1190.17,Credit Card,2,No
+CUST10802,33.0,Male,West,Basic,30,27.96,847.81,Debit Card,5,No
+CUST10803,44.0,Male,North,Basic,38,25.86,1046.64,Debit Card,1,Yes
+CUST10804,65.0,Male,South,Basic,18,27.64,477.28,UPI,2,No
+CUST10805,56.0,Male,North,Basic,54,21.54,1231.61,Bank Transfer,2,No
+CUST10806,58.0,Female,West,Basic,11,23.78,262.01,UPI,2,Yes
+CUST10807,46.0,Female,South,Standard,54,56.02,2991.29,UPI,3,No
+CUST10808,23.0,Female,East,Standard,53,42.16,2187.77,Credit Card,4,No
+CUST10809,38.0,Female,North,Premium,9,97.65,819.11,Bank Transfer,2,Yes
+CUST10810,69.0,Female,South,Standard,43,58.63,2453.47,PayPal,2,No
+CUST10811,20.0,Other,West,Standard,60,50.89,3338.7,Bank Transfer,3,No
+CUST10812,63.0,Female,West,Basic,35,26.23,846.88,Credit Card,3,No
+CUST10813,53.0,Female,North,Standard,21,59.39,1385.41,UPI,2,No
+CUST10814,32.0,Female,South,Basic,53,15.8,773.46,Debit Card,1,No
+CUST10815,58.0,Female,South,Standard,31,46.61,1415.5,Credit Card,2,No
+CUST10816,61.0,Male,East,Standard,8,54.2,448.08,Credit Card,4,Yes
+CUST10817,20.0,Male,East,Standard,15,41.09,668.32,Credit Card,4,Yes
+CUST10818,23.0,Male,North,Basic,41,31.12,1188.63,Credit Card,4,No
+CUST10819,52.0,Male,West,Standard,28,58.71,1530.52,Bank Transfer,3,Yes
+CUST10820,69.0,Female,North,Premium,14,58.26,846.83,Debit Card,5,No
+CUST10821,19.0,Male,South,Standard,48,59.98,2776.56,Bank Transfer,2,No
+CUST10822,52.0,Female,West,Standard,8,59.07,492.31,PayPal,2,Yes
+CUST10823,25.0,Female,East,Standard,14,50.06,757.28,UPI,8,Yes
+CUST10824,51.0,Female,South,Basic,28,13.63,349.93,UPI,2,No
+CUST10825,50.0,Male,West,Standard,3,41.15,134.04,Bank Transfer,3,Yes
+CUST10826,22.0,Male,South,Standard,24,56.11,1223.11,Credit Card,4,No
+CUST10827,53.0,Female,East,Basic,55,27.13,1638.0,Debit Card,3,No
+CUST10828,64.0,Female,North,Basic,57,23.97,1522.92,UPI,1,No
+CUST10829,62.0,Other,North,Premium,53,64.95,3603.59,Bank Transfer,5,Yes
+CUST10830,19.0,Female,South,Standard,20,61.76,1379.15,Bank Transfer,4,No
+CUST10831,30.0,Female,East,Standard,4,45.4,196.28,Bank Transfer,0,Yes
+CUST10832,30.0,Male,West,Standard,49,44.85,1999.33,UPI,4,No
+CUST10833,41.0,Male,South,Standard,23,49.58,1027.26,UPI,2,Yes
+CUST10834,25.0,Male,West,Standard,45,52.81,2149.68,Bank Transfer,1,Yes
+CUST10835,62.0,Female,East,Basic,8,17.99,143.84,Bank Transfer,2,No
+CUST10836,58.0,Female,North,Standard,41,58.39,2482.91,UPI,3,No
+CUST10837,60.0,Male,East,Standard,36,43.61,1579.26,PayPal,0,No
+CUST10838,28.0,Female,East,Basic,56,34.54,2028.96,Bank Transfer,9,No
+CUST10839,18.0,Male,South,Standard,7,53.56,374.51,UPI,2,No
+CUST10840,65.0,Male,South,Basic,25,21.01,477.64,Credit Card,3,No
+CUST10841,33.0,Male,South,Standard,60,56.72,3232.21,Credit Card,3,No
+CUST10842,52.0,Male,East,Standard,24,51.19,1373.99,Bank Transfer,4,No
+CUST10843,65.0,Female,East,Standard,40,56.31,2198.55,Credit Card,2,No
+CUST10844,19.0,Male,South,Standard,10,51.55,500.78,UPI,4,No
+CUST10845,18.0,Female,South,Premium,44,69.03,2835.69,UPI,3,No
+CUST10846,18.0,Female,South,Standard,17,44.94,853.5,Bank Transfer,5,Yes
+CUST10847,26.0,Male,South,Standard,35,44.95,1495.69,Bank Transfer,0,No
+CUST10848,20.0,Male,South,Standard,53,59.8,3303.47,Bank Transfer,4,Yes
+CUST10849,60.0,Female,South,Basic,40,25.02,909.98,Debit Card,0,No
+CUST10850,49.0,Male,East,Basic,29,23.03,610.85,Credit Card,2,Yes
+CUST10851,68.0,Female,North,Standard,12,51.45,653.01,UPI,0,Yes
+CUST10852,59.0,Male,East,Basic,21,22.23,485.38,Credit Card,1,No
+CUST10853,68.0,Female,North,Standard,51,45.41,2430.86,UPI,3,No
+CUST10854,30.0,Female,South,Standard,13,57.69,713.08,PayPal,6,No
+CUST10855,32.0,Male,West,Standard,40,49.0,2188.68,UPI,2,No
+CUST10856,62.0,Male,West,Basic,30,23.97,735.53,UPI,1,No
+CUST10857,30.0,Female,East,Premium,20,87.49,1948.05,UPI,3,Yes
+CUST10858,20.0,Male,East,Standard,43,46.86,1886.26,Bank Transfer,2,Yes
+CUST10859,52.0,Male,North,Standard,22,52.71,1147.01,Debit Card,1,Yes
+CUST10860,59.0,Male,South,Basic,18,24.19,424.03,UPI,0,Yes
+CUST10861,68.0,Male,East,Standard,32,57.7,1968.48,Credit Card,1,Yes
+CUST10862,66.0,Female,West,Basic,46,25.9,1268.2,UPI,4,No
+CUST10863,24.0,Female,East,Standard,52,48.67,2548.66,Debit Card,2,No
+CUST10864,58.0,Male,West,Basic,38,14.38,493.74,UPI,2,No
+CUST10865,61.0,Female,South,Premium,40,52.4,1967.19,Bank Transfer,4,Yes
+CUST10866,54.0,Male,North,Basic,48,26.22,1146.62,Credit Card,2,Yes
+CUST10867,60.0,Male,North,Standard,17,35.22,650.44,UPI,4,Yes
+CUST10868,61.0,Female,East,Basic,16,20.17,311.02,Credit Card,1,Yes
+CUST10869,41.0,Other,East,Standard,30,62.07,1724.2,Debit Card,1,Yes
+CUST10870,20.0,Male,South,Standard,38,47.84,1777.78,Credit Card,2,Yes
+CUST10871,41.0,Male,West,Standard,39,51.76,1851.1,Credit Card,2,No
+CUST10872,28.0,Female,East,Basic,10,26.02,290.21,PayPal,4,Yes
+CUST10873,23.0,Female,South,Basic,47,18.09,824.13,PayPal,5,Yes
+CUST10874,24.0,Male,North,Basic,22,26.13,635.38,Bank Transfer,3,No
+CUST10875,54.0,Male,East,Premium,53,71.58,3984.19,UPI,2,No
+CUST10876,44.0,Female,East,Standard,44,45.56,2053.84,Bank Transfer,4,Yes
+CUST10877,46.0,Male,North,Basic,59,28.03,1661.39,Bank Transfer,4,No
+CUST10878,56.0,Male,South,Premium,38,99.24,3964.29,UPI,1,No
+CUST10879,46.0,Male,South,Basic,32,27.73,932.6,Credit Card,6,No
+CUST10880,50.0,Male,East,Standard,12,35.3,382.22,Bank Transfer,3,No
+CUST10881,22.0,Male,North,Standard,24,43.59,1150.48,PayPal,3,No
+CUST10882,62.0,Female,West,Premium,52,54.6,2785.12,Debit Card,3,No
+CUST10883,41.0,Female,South,Standard,23,43.82,985.4,UPI,2,Yes
+CUST10884,26.0,Female,South,Standard,4,57.76,228.6,Debit Card,3,No
+CUST10885,60.0,Other,North,Premium,15,72.65,1145.07,Debit Card,3,Yes
+CUST10886,56.0,Male,West,Basic,36,28.82,1019.6,Bank Transfer,2,Yes
+CUST10887,20.0,Male,North,Premium,38,92.86,3466.02,Debit Card,3,Yes
+CUST10888,28.0,Female,West,Premium,60,102.79,5636.77,PayPal,5,No
+CUST10889,18.0,Male,South,Premium,57,82.6,4668.94,Bank Transfer,3,No
+CUST10890,32.0,Female,West,Basic,32,30.13,899.45,Credit Card,4,No
+CUST10891,23.0,Female,North,Basic,34,17.44,645.28,Bank Transfer,2,Yes
+CUST10892,54.0,Male,North,Standard,49,53.48,2551.32,Bank Transfer,2,No
+CUST10893,45.0,Male,West,Standard,3,37.98,126.63,UPI,0,Yes
+CUST10894,68.0,Male,West,Standard,36,28.89,1092.66,UPI,1,No
+CUST10895,56.0,Male,East,Premium,29,87.22,2697.21,Bank Transfer,4,Yes
+CUST10896,49.0,Male,North,Standard,47,53.45,2784.73,Debit Card,3,No
+CUST10897,44.0,Male,West,Basic,49,28.07,1310.19,Credit Card,2,No
+CUST10898,20.0,Female,South,Standard,40,45.8,1877.44,Debit Card,2,Yes
+CUST10899,21.0,Female,West,Basic,40,27.49,999.49,Debit Card,3,Yes
+CUST10900,50.0,Female,West,Basic,42,25.45,985.7,UPI,1,No
+CUST10901,18.0,Male,West,Basic,35,21.78,747.55,Credit Card,3,No
+CUST10902,20.0,Male,East,Premium,14,89.75,1319.51,UPI,0,Yes
+CUST10903,29.0,Male,East,Standard,18,63.75,1242.71,UPI,0,No
+CUST10904,63.0,Male,East,Standard,45,47.46,2042.6,Bank Transfer,2,Yes
+CUST10905,41.0,Female,North,Standard,38,44.77,1811.5,UPI,3,No
+CUST10906,54.0,Male,South,Standard,15,38.01,541.27,PayPal,2,No
+CUST10907,39.0,Male,East,Premium,53,99.13,4735.5,PayPal,1,No
+CUST10908,27.0,Female,West,Premium,59,94.17,5066.94,Credit Card,2,No
+CUST10909,37.0,Male,East,Standard,38,53.62,2096.29,UPI,3,No
+CUST10910,22.0,Male,East,Premium,14,67.76,957.53,Credit Card,2,No
+CUST10911,,Male,North,Standard,57,52.6,2876.75,Bank Transfer,5,No
+CUST10912,27.0,Female,South,Standard,15,,535.19,UPI,7,Yes
+CUST10913,37.0,Female,East,Premium,26,78.23,2084.75,Debit Card,3,No
+CUST10914,68.0,Male,West,Standard,52,42.2,2369.67,Credit Card,3,No
+CUST10915,48.0,Female,South,Standard,32,46.83,1371.3,Debit Card,1,No
+CUST10916,41.0,Female,North,Basic,15,18.28,291.21,Bank Transfer,3,Yes
+CUST10917,46.0,Female,South,Standard,5,45.3,235.47,Bank Transfer,4,Yes
+CUST10918,58.0,Male,North,Standard,22,38.85,859.36,Credit Card,1,No
+CUST10919,31.0,Male,East,Standard,41,62.74,2342.46,Debit Card,4,Yes
+CUST10920,51.0,Female,East,Standard,43,52.39,2485.22,Debit Card,4,Yes
+CUST10921,63.0,Male,West,Basic,14,22.33,314.19,UPI,1,Yes
+CUST10922,47.0,Female,West,Premium,10,90.03,889.42,Credit Card,2,No
+CUST10923,41.0,Female,North,Basic,43,24.21,1134.23,Debit Card,1,No
+CUST10924,25.0,Male,North,Premium,10,69.44,754.14,Bank Transfer,4,Yes
+CUST10925,30.0,Female,South,Basic,4,23.0,97.52,UPI,3,No
+CUST10926,67.0,Female,North,Standard,30,51.07,1658.44,Bank Transfer,2,No
+CUST10927,46.0,Female,West,Standard,35,55.36,1796.84,,2,No
+CUST10928,33.0,Male,North,Premium,15,90.42,1447.72,UPI,1,Yes
+CUST10929,39.0,Female,North,Basic,13,28.22,356.65,UPI,0,Yes
+CUST10930,48.0,Female,West,Premium,15,108.82,1780.59,Debit Card,0,Yes
+CUST10931,45.0,Female,West,Standard,21,62.24,1282.8,Credit Card,1,No
+CUST10932,54.0,Female,North,Standard,1,46.18,42.11,PayPal,3,Yes
+CUST10933,31.0,Female,South,Standard,1,53.13,52.66,Bank Transfer,2,Yes
+CUST10934,51.0,Male,East,Basic,23,22.4,549.46,Bank Transfer,2,No
+CUST10935,41.0,Male,East,Standard,2,45.12,91.16,Credit Card,3,Yes
+CUST10936,66.0,Male,West,Basic,20,25.78,550.66,Credit Card,2,Yes
+CUST10937,26.0,Female,South,Basic,35,27.5,873.72,Credit Card,2,Yes
+CUST10938,25.0,Female,North,Standard,2,46.06,86.5,PayPal,2,No
+CUST10939,42.0,Female,South,Standard,38,38.33,1491.49,Bank Transfer,1,No
+CUST10940,44.0,Male,East,Basic,38,28.22,1056.03,UPI,4,No
+CUST10941,53.0,Female,East,Basic,35,28.6,1050.69,PayPal,6,No
+CUST10942,39.0,Female,East,Basic,38,19.23,812.41,Credit Card,1,No
+CUST10943,65.0,Male,West,Basic,49,20.18,1033.48,UPI,3,No
+CUST10944,42.0,Female,West,Standard,5,29.2,144.81,Credit Card,3,Yes
+CUST10945,24.0,Female,South,Basic,11,18.34,205.64,Debit Card,0,No
+CUST10946,24.0,Female,South,Premium,20,90.9,2001.29,PayPal,3,Yes
+CUST10947,68.0,Male,East,Basic,42,26.45,1164.29,Bank Transfer,0,No
+CUST10948,24.0,Female,South,Basic,53,25.4,1449.45,Credit Card,4,Yes
+CUST10949,67.0,Female,South,Premium,56,79.84,4320.52,Credit Card,2,No
+CUST10950,32.0,Female,North,Basic,35,35.28,1313.52,UPI,2,No
+CUST10951,22.0,Female,South,Standard,25,49.82,1159.16,Credit Card,5,No
+CUST10952,33.0,Other,East,Premium,25,79.09,2105.67,UPI,3,Yes
+CUST10953,49.0,Male,West,Premium,4,76.81,336.1,UPI,0,Yes
+CUST10954,40.0,Female,West,Standard,28,58.68,1804.14,Debit Card,0,Yes
+CUST10955,58.0,Male,South,Basic,31,13.99,401.45,Debit Card,1,No
+CUST10956,49.0,Other,North,Standard,13,55.34,778.83,Credit Card,4,Yes
+CUST10957,38.0,Male,North,Premium,47,107.49,4669.02,PayPal,4,Yes
+CUST10958,51.0,Male,South,Premium,49,80.27,3953.87,Debit Card,1,No
+CUST10959,68.0,Female,East,Basic,19,18.14,361.95,UPI,1,No
+CUST10960,39.0,Male,West,Standard,55,55.73,3085.18,Debit Card,5,Yes
+CUST10961,25.0,Female,West,Basic,7,28.56,194.88,Bank Transfer,2,Yes
+CUST10962,39.0,Male,North,Basic,55,34.06,1967.79,Credit Card,2,No
+CUST10963,61.0,Female,East,Standard,47,65.81,3233.47,Credit Card,1,No
+CUST10964,29.0,Female,South,Basic,14,26.09,375.57,Bank Transfer,1,Yes
+CUST10965,67.0,Male,North,Basic,40,18.55,754.06,Bank Transfer,3,Yes
+CUST10966,48.0,Female,East,Basic,19,23.32,467.57,Debit Card,3,No
+CUST10967,49.0,Male,North,Standard,48,46.64,2213.35,Debit Card,2,No
+CUST10968,34.0,Female,South,Basic,10,27.32,250.01,PayPal,1,No
+CUST10969,65.0,Female,East,Standard,15,39.59,604.68,Credit Card,3,Yes
+CUST10970,19.0,Female,South,Basic,19,29.96,602.92,Credit Card,3,Yes
+CUST10971,33.0,Male,East,Premium,12,97.91,1134.76,Debit Card,1,Yes
+CUST10972,39.0,Male,South,Basic,20,29.99,558.39,Debit Card,2,No
+CUST10973,42.0,Female,West,Standard,37,57.4,2337.47,UPI,0,No
+CUST10974,42.0,Female,North,Basic,38,23.38,968.42,UPI,1,Yes
+CUST10975,25.0,Female,North,Basic,34,21.46,755.95,UPI,4,Yes
+CUST10976,29.0,Male,East,Basic,12,22.2,285.86,UPI,4,No
+CUST10977,22.0,Male,South,Basic,13,33.71,487.81,Debit Card,2,Yes
+CUST10978,47.0,Female,East,Basic,56,26.54,1523.75,Bank Transfer,2,No
+CUST10979,36.0,Male,North,Standard,16,55.97,854.08,Credit Card,5,No
+CUST10980,47.0,Male,East,Standard,7,48.66,354.43,Debit Card,3,No
+CUST10981,48.0,Female,West,Basic,28,37.23,1147.95,UPI,0,No
+CUST10982,54.0,Male,North,Standard,1,64.78,68.14,Debit Card,6,Yes
+CUST10983,46.0,Female,South,Standard,21,49.86,948.4,Credit Card,7,Yes
+CUST10984,51.0,Male,West,Basic,52,23.63,1353.81,Debit Card,1,No
+CUST10985,48.0,Female,East,Standard,17,46.76,847.23,Bank Transfer,0,No
+CUST10986,51.0,Female,North,Basic,43,25.73,1093.56,Credit Card,2,No
+CUST10987,50.0,Female,North,Basic,30,21.49,720.29,Bank Transfer,3,No
+CUST10988,34.0,Male,West,Standard,22,37.64,876.75,Bank Transfer,3,Yes
+CUST10989,30.0,Female,West,Premium,40,74.52,3224.02,UPI,1,Yes
+CUST10990,58.0,Female,South,Premium,36,69.15,2757.0,Credit Card,3,Yes
+CUST10991,35.0,Male,South,Premium,20,46.66,848.01,Bank Transfer,7,No
+CUST10992,46.0,Male,West,Standard,14,47.96,718.69,Credit Card,0,No
+CUST10993,28.0,Male,North,Basic,56,22.82,1258.75,PayPal,2,No
+CUST10994,40.0,Female,North,Basic,11,34.99,419.99,Bank Transfer,0,No
+CUST10995,45.0,Female,West,Basic,58,30.01,1903.08,Credit Card,0,Yes
+CUST10996,50.0,Female,North,Basic,29,29.72,932.81,Bank Transfer,1,No
+CUST10997,45.0,Female,West,Basic,60,23.68,1522.28,UPI,4,No
+CUST10998,36.0,Female,South,Standard,22,43.34,1024.75,UPI,2,Yes
+CUST10999,68.0,Male,West,Basic,34,17.74,582.2,Debit Card,6,No
+CUST11000,44.0,Male,North,Basic,37,28.91,1058.37,UPI,1,No
+CUST11001,60.0,Female,West,Standard,21,36.5,709.25,Bank Transfer,3,No
+CUST11002,56.0,Male,North,Standard,14,48.49,735.02,Bank Transfer,2,Yes
+CUST11003,47.0,Female,North,Premium,32,96.43,3215.74,Debit Card,1,No
+CUST11004,64.0,Female,East,Basic,40,24.29,1005.41,UPI,0,No
+CUST11005,24.0,Male,East,Standard,16,35.24,537.98,UPI,2,No
+CUST11006,65.0,Female,West,Basic,47,29.46,1433.51,UPI,3,Yes
+CUST11007,62.0,Male,North,Standard,39,46.15,1799.85,UPI,3,Yes
+CUST11008,44.0,Female,North,Basic,10,28.68,320.92,Debit Card,4,No
+CUST11009,56.0,Female,East,Basic,57,24.9,1546.86,Bank Transfer,2,No
+CUST11010,45.0,Female,West,Standard,3,64.37,196.14,Debit Card,7,Yes
+CUST11011,31.0,Male,South,Basic,40,14.58,628.61,Credit Card,2,No
+CUST11012,59.0,Male,West,Basic,27,24.32,614.74,UPI,1,Yes
+CUST11013,30.0,Male,West,Premium,40,62.78,2316.1,Debit Card,2,Yes
+CUST11014,34.0,Male,West,Basic,47,33.37,1629.15,Credit Card,1,No
+CUST11015,45.0,Male,East,Standard,42,56.88,2532.04,Credit Card,2,No
+CUST11016,61.0,Male,East,Standard,40,39.34,1434.61,UPI,1,No
+CUST11017,37.0,Other,East,Basic,51,24.79,1193.76,PayPal,4,No
+CUST11018,43.0,Male,East,Standard,43,53.65,2348.93,UPI,4,No
+CUST11019,20.0,Male,East,Basic,49,22.74,1018.23,Credit Card,0,Yes
+CUST11020,24.0,Female,East,Standard,25,32.38,804.07,Bank Transfer,3,Yes
+CUST11021,20.0,Female,South,Basic,13,21.61,282.63,Debit Card,4,Yes
+CUST11022,21.0,Female,East,Basic,15,14.7,243.17,PayPal,3,No
+CUST11023,63.0,Female,West,Basic,37,31.44,1127.74,UPI,5,No
+CUST11024,61.0,Female,West,Premium,32,86.15,2583.42,Credit Card,0,Yes
+CUST11025,60.0,Female,East,Standard,5,37.76,170.23,UPI,2,Yes
+CUST11026,20.0,Female,North,Premium,13,72.01,867.56,Debit Card,1,No
+CUST11027,22.0,Female,East,Standard,59,49.47,3109.0,Bank Transfer,2,No
+CUST11028,32.0,Male,South,Standard,44,55.07,2417.95,Credit Card,4,No
+CUST11029,47.0,Male,North,Standard,46,45.6,1979.55,Bank Transfer,1,Yes
+CUST11030,35.0,Male,North,Premium,12,86.33,1145.01,Bank Transfer,1,Yes
+CUST11031,43.0,Male,East,Standard,4,46.7,200.48,Bank Transfer,1,Yes
+CUST11032,26.0,Female,West,Standard,18,50.27,837.14,Bank Transfer,1,Yes
+CUST11033,56.0,Male,East,Standard,52,51.85,2586.12,Credit Card,2,No
+CUST11034,34.0,Male,South,Standard,31,43.69,1472.06,UPI,2,No
+CUST11035,21.0,Male,North,Basic,48,21.82,1102.17,Bank Transfer,6,No
+CUST11036,56.0,Female,East,Standard,30,45.03,1496.82,Debit Card,2,Yes
+CUST11037,64.0,Male,North,Basic,30,22.61,621.85,Credit Card,2,Yes
+CUST11038,18.0,Female,West,Premium,37,104.93,4156.47,Debit Card,3,No
+CUST11039,40.0,Female,West,Standard,58,58.6,3116.06,Credit Card,2,No
+CUST11040,61.0,Male,West,Premium,27,74.47,1958.54,Bank Transfer,4,No
+CUST11041,54.0,Female,South,Standard,36,44.44,1704.06,UPI,1,No
+CUST11042,62.0,Male,North,Standard,56,57.41,3396.36,UPI,2,No
+CUST11043,39.0,Male,South,Basic,23,,733.57,PayPal,2,Yes
+CUST11044,37.0,Female,West,Premium,51,72.3,3482.39,Debit Card,3,No
+CUST11045,54.0,Female,North,Standard,33,59.87,2116.55,Bank Transfer,2,Yes
+CUST11046,25.0,Male,West,Basic,53,23.43,1152.07,Credit Card,2,No
+CUST11047,30.0,Female,North,Basic,29,18.99,535.18,Credit Card,2,Yes
+CUST11048,49.0,Male,North,Basic,38,33.56,1199.34,Credit Card,2,Yes
+CUST11049,52.0,Female,North,Standard,20,39.74,734.81,Debit Card,3,Yes
+CUST11050,24.0,Female,West,Standard,39,48.36,2044.58,Debit Card,1,Yes
+CUST11051,44.0,Female,East,Premium,20,99.29,1814.02,UPI,3,Yes
+CUST11052,36.0,Female,South,Standard,37,46.78,1761.9,Credit Card,3,No
+CUST11053,44.0,Male,East,Standard,48,44.0,2222.64,Credit Card,5,Yes
+CUST11054,67.0,Female,East,Standard,27,47.7,1175.43,UPI,3,Yes
+CUST11055,21.0,Female,East,Premium,26,79.56,2149.97,Credit Card,4,Yes
+CUST11056,69.0,Female,East,Premium,20,97.59,1900.07,Bank Transfer,1,Yes
+CUST11057,41.0,Male,North,Basic,44,23.09,1100.67,PayPal,2,No
+CUST11058,58.0,Male,South,Premium,36,75.72,2931.69,Bank Transfer,2,Yes
+CUST11059,40.0,Male,East,Standard,31,37.84,1260.62,UPI,1,No
+CUST11060,34.0,Male,North,Premium,2,91.81,181.36,UPI,1,No
+CUST11061,58.0,Male,South,Premium,7,77.52,586.57,UPI,1,Yes
+CUST11062,53.0,Male,North,Standard,1,52.05,54.06,PayPal,2,No
+CUST11063,25.0,Female,West,Basic,52,23.85,1219.5,PayPal,1,No
+CUST11064,54.0,Male,North,Standard,52,51.97,2480.16,Debit Card,3,No
+CUST11065,57.0,Female,North,Basic,5,29.27,133.87,UPI,4,Yes
+CUST11066,38.0,Female,East,Standard,3,40.89,117.19,Bank Transfer,4,No
+CUST11067,66.0,Female,North,Basic,47,23.9,1085.01,Credit Card,6,Yes
+CUST11068,51.0,Male,South,Standard,32,56.54,1997.55,UPI,1,Yes
+CUST11069,35.0,Female,South,Premium,19,81.43,1732.81,UPI,1,No
+CUST11070,18.0,Female,North,Basic,37,29.24,1007.89,Bank Transfer,2,Yes
+CUST11071,53.0,Female,West,Standard,15,59.43,987.2,Debit Card,3,Yes
+CUST11072,28.0,Female,East,Standard,12,46.05,583.24,Debit Card,1,Yes
+CUST11073,57.0,Female,North,Standard,23,55.23,1282.6,Credit Card,3,Yes
+CUST11074,45.0,Female,East,Basic,54,32.45,1945.11,UPI,0,No
+CUST11075,42.0,Female,East,Basic,47,20.84,1035.32,PayPal,4,No
+CUST11076,26.0,Male,East,Standard,12,30.63,378.81,Bank Transfer,0,Yes
+CUST11077,54.0,Female,East,Standard,34,47.58,1530.52,Debit Card,3,No
+CUST11078,26.0,Male,West,Standard,54,50.73,2612.8,Debit Card,2,Yes
+CUST11079,39.0,Female,South,Basic,58,16.85,1075.55,Bank Transfer,3,No
+CUST11080,61.0,Female,South,Standard,46,64.05,2791.06,Bank Transfer,3,No
+CUST11081,65.0,Male,East,Standard,8,40.7,295.35,UPI,2,No
+CUST11082,69.0,Female,West,Basic,15,30.13,433.23,Debit Card,0,No
+CUST11083,67.0,Male,East,Standard,14,42.76,602.07,Credit Card,0,No
+CUST11084,46.0,Male,North,Basic,10,21.87,215.21,Bank Transfer,2,Yes
+CUST11085,28.0,Male,South,Standard,11,58.25,708.59,UPI,0,Yes
+CUST11086,61.0,Male,East,Premium,19,95.36,1797.5,Debit Card,1,No
+CUST11087,59.0,Male,North,Standard,34,44.39,1653.53,PayPal,1,No
+CUST11088,69.0,Male,West,Standard,24,44.22,1093.99,UPI,1,Yes
+CUST11089,51.0,Female,West,Basic,26,23.56,621.94,PayPal,4,No
+CUST11090,25.0,Female,West,Basic,15,24.96,350.15,UPI,2,No
+CUST11091,44.0,Male,North,Basic,10,21.69,208.14,UPI,2,Yes
+CUST11092,41.0,Female,East,Standard,60,49.15,3216.7,PayPal,1,No
+CUST11093,61.0,Male,East,Premium,36,78.96,3046.06,PayPal,1,No
+CUST11094,38.0,Female,East,Basic,14,32.43,453.31,PayPal,1,Yes
+CUST11095,35.0,Male,West,Basic,49,23.42,1262.32,Bank Transfer,2,Yes
+CUST11096,22.0,Female,South,Basic,50,25.1,1355.68,UPI,6,No
+CUST11097,61.0,Male,East,Standard,59,33.47,1825.95,Credit Card,0,No
+CUST11098,57.0,Female,East,Standard,10,47.43,490.1,Debit Card,1,Yes
+CUST11099,20.0,Male,West,Standard,39,62.95,2641.01,PayPal,1,No
+CUST11100,40.0,Female,West,Premium,59,70.42,4478.17,Debit Card,0,No
+CUST11101,42.0,Male,South,Basic,49,29.47,1328.64,Bank Transfer,5,No
+CUST11102,42.0,Female,West,Standard,14,55.19,733.57,PayPal,2,No
+CUST11103,65.0,Female,North,Standard,54,41.33,2211.44,PayPal,3,No
+CUST11104,25.0,Female,South,Basic,26,25.05,622.23,PayPal,1,No
+CUST11105,33.0,Female,East,Premium,30,86.45,2396.31,UPI,3,Yes
+CUST11106,27.0,Other,North,Basic,34,24.5,864.93,UPI,2,No
+CUST11107,30.0,Male,South,Standard,47,42.24,2008.4,PayPal,1,Yes
+CUST11108,65.0,Male,East,Standard,8,62.05,463.69,Credit Card,2,Yes
+CUST11109,66.0,Male,East,Premium,33,85.08,2889.07,Credit Card,2,Yes
+CUST11110,20.0,Male,North,Standard,50,58.63,2678.35,PayPal,0,No
+CUST11111,50.0,Female,South,Basic,33,18.42,598.3,UPI,2,No
+CUST11112,30.0,Other,North,Premium,17,83.02,1516.28,UPI,4,Yes
+CUST11113,28.0,Other,East,Standard,4,54.49,238.84,Credit Card,1,Yes
+CUST11114,33.0,Female,South,Standard,33,45.21,1423.23,UPI,4,Yes
+CUST11115,28.0,Female,East,Standard,43,54.54,2554.16,PayPal,1,No
+CUST11116,43.0,Female,East,Basic,33,22.58,816.81,UPI,1,No
+CUST11117,69.0,Female,West,Standard,59,53.52,3263.51,Debit Card,1,No
+CUST11118,48.0,Male,North,Premium,37,84.72,3498.51,UPI,1,No
+CUST11119,55.0,Female,West,Basic,31,31.28,925.23,Bank Transfer,2,No
+CUST11120,43.0,Female,North,Standard,4,56.83,208.04,PayPal,2,Yes
+CUST11121,18.0,Male,North,Premium,34,83.09,3066.77,Debit Card,2,Yes
+CUST11122,22.0,Male,North,Standard,11,39.61,439.2,UPI,4,Yes
+CUST11123,31.0,Other,North,Premium,44,123.8,5317.66,Debit Card,2,No
+CUST11124,30.0,Other,West,Standard,10,44.49,405.82,UPI,1,No
+CUST11125,61.0,Female,North,Premium,55,78.22,3933.05,Credit Card,2,No
+CUST11126,61.0,Female,East,Basic,19,30.04,525.08,UPI,1,Yes
+CUST11127,62.0,Male,South,Standard,27,49.89,1266.75,UPI,0,No
+CUST11128,51.0,Male,North,Standard,9,52.49,526.02,Debit Card,4,No
+CUST11129,46.0,Female,South,Standard,13,47.74,596.98,Debit Card,6,Yes
+CUST11130,51.0,Female,North,Premium,56,84.24,5093.66,Credit Card,4,No
+CUST11131,39.0,Female,South,Standard,18,51.79,842.98,Credit Card,0,No
+CUST11132,52.0,Female,East,Standard,31,45.67,1374.43,Bank Transfer,6,Yes
+CUST11133,59.0,Male,East,Standard,59,34.51,2238.4,Credit Card,3,No
+CUST11134,57.0,Female,South,Standard,38,51.07,1825.6,Credit Card,1,No
+CUST11135,49.0,Male,West,Standard,3,42.38,122.37,PayPal,3,No
+CUST11136,21.0,Male,East,Basic,22,23.39,556.69,Debit Card,2,Yes
+CUST11137,55.0,Male,South,Standard,24,53.83,1197.23,Bank Transfer,0,Yes
+CUST11138,37.0,Male,South,Premium,17,113.23,1754.94,UPI,3,Yes
+CUST11139,56.0,Female,North,Standard,15,49.7,829.38,Bank Transfer,3,Yes
+CUST11140,46.0,Male,West,Standard,31,54.43,1668.86,UPI,1,Yes
+CUST11141,63.0,Male,West,Standard,23,38.44,923.67,Credit Card,4,Yes
+CUST11142,35.0,Female,South,Standard,18,51.96,867.91,Bank Transfer,1,Yes
+CUST11143,66.0,Female,East,Basic,25,23.99,568.83,Bank Transfer,5,No
+CUST11144,61.0,Male,East,Standard,21,59.83,1257.93,Debit Card,2,Yes
+CUST11145,35.0,Male,East,Standard,14,45.68,670.56,Bank Transfer,4,Yes
+CUST11146,43.0,Male,North,Basic,28,27.68,747.54,UPI,2,Yes
+CUST11147,45.0,Female,West,Basic,57,40.51,2527.55,PayPal,1,Yes
+CUST11148,57.0,Male,West,Standard,31,49.26,1636.78,Bank Transfer,3,Yes
+CUST11149,53.0,Male,West,Standard,36,41.13,1512.28,Credit Card,0,No
+CUST11150,62.0,Male,West,Standard,60,70.41,4228.94,Bank Transfer,3,No
+CUST11151,37.0,Female,West,Basic,37,33.23,1274.14,PayPal,5,No
+CUST11152,44.0,Male,East,Standard,14,49.48,734.95,Bank Transfer,6,Yes
+CUST11153,40.0,Female,North,Standard,24,52.77,1177.43,Credit Card,3,Yes
+CUST11154,65.0,Male,South,Standard,30,52.14,1701.19,Bank Transfer,4,Yes
+CUST11155,33.0,Female,North,Standard,29,48.48,1416.7,UPI,1,Yes
+CUST11156,48.0,Male,North,Basic,9,28.11,279.75,Debit Card,2,No
+CUST11157,24.0,Male,West,Premium,7,63.67,494.81,,4,Yes
+CUST11158,62.0,Male,West,Basic,21,26.41,502.9,UPI,0,Yes
+CUST11159,37.0,Female,East,Standard,55,67.2,3639.03,Bank Transfer,2,No
+CUST11160,35.0,Female,East,Basic,44,31.16,1392.66,UPI,3,No
+CUST11161,48.0,Male,North,Standard,51,54.78,2846.05,Debit Card,2,Yes
+CUST11162,43.0,Male,North,Basic,11,25.37,301.65,PayPal,2,No
+CUST11163,62.0,Female,West,Premium,25,84.97,1977.77,UPI,6,No
+CUST11164,45.0,Female,South,Standard,35,46.36,1682.55,UPI,3,Yes
+CUST11165,44.0,Male,East,Standard,27,37.6,1124.2,Debit Card,3,No
+CUST11166,23.0,Male,South,Basic,26,25.52,742.66,Credit Card,2,Yes
+CUST11167,19.0,Female,North,Basic,22,22.2,440.64,UPI,3,No
+CUST11168,38.0,Female,West,Standard,4,59.37,264.54,Debit Card,1,No
+CUST11169,69.0,Female,West,Standard,52,40.43,1948.65,PayPal,3,No
+CUST11170,65.0,Female,East,Standard,56,45.38,2587.35,PayPal,1,No
+CUST11171,50.0,Female,South,Premium,5,97.59,465.6,Bank Transfer,4,Yes
+CUST11172,50.0,Male,East,Standard,25,61.54,1589.9,Credit Card,1,Yes
+CUST11173,38.0,Male,West,Premium,32,91.9,2670.68,Bank Transfer,1,Yes
+CUST11174,27.0,Male,East,Basic,48,32.85,1501.8,Credit Card,4,No
+CUST11175,18.0,Male,South,Standard,60,57.76,3348.21,Bank Transfer,2,No
+CUST11176,35.0,Male,South,Standard,25,48.83,1344.58,UPI,2,No
+CUST11177,34.0,Male,East,Standard,45,38.99,1804.38,PayPal,2,Yes
+CUST11178,27.0,Female,South,Premium,57,77.45,4661.01,Debit Card,4,Yes
+CUST11179,31.0,Male,East,Standard,50,56.88,2982.57,Debit Card,3,Yes
+CUST11180,19.0,Male,North,Premium,18,83.45,1481.53,PayPal,2,Yes
+CUST11181,49.0,Female,North,Standard,50,53.14,2399.5,UPI,1,Yes
+CUST11182,66.0,Female,West,Basic,25,31.32,723.14,Bank Transfer,1,Yes
+CUST11183,53.0,Female,South,Standard,2,53.02,106.14,PayPal,3,No
+CUST11184,41.0,Female,South,Standard,46,53.77,2738.29,UPI,2,No
+CUST11185,39.0,Female,East,Premium,51,75.37,3669.85,UPI,3,No
+CUST11186,33.0,Male,South,Premium,21,72.76,1609.9,UPI,1,Yes
+CUST11187,25.0,Male,West,Basic,28,27.75,840.6,Bank Transfer,2,Yes
+CUST11188,49.0,Female,North,Basic,22,33.8,817.58,PayPal,2,No
+CUST11189,47.0,Male,West,Basic,8,34.74,268.07,Debit Card,5,Yes
+CUST11190,18.0,Male,North,Standard,60,55.19,3658.71,Bank Transfer,2,No
+CUST11191,39.0,Male,South,Basic,2,22.34,46.19,Debit Card,0,No
+CUST11192,32.0,Male,East,Standard,34,53.74,1848.81,UPI,1,Yes
+CUST11193,,Male,West,Standard,1,61.14,65.5,Bank Transfer,4,No
+CUST11194,54.0,Male,North,Premium,42,94.57,3783.34,Bank Transfer,1,Yes
+CUST11195,45.0,Female,East,Basic,55,23.74,1408.55,Debit Card,0,No
+CUST11196,50.0,Female,North,Standard,39,51.23,2083.87,Debit Card,3,No
+CUST11197,55.0,Male,North,Basic,37,22.48,894.86,Debit Card,4,No
+CUST11198,69.0,Female,West,Premium,50,111.04,6042.01,Credit Card,3,No
+CUST11199,59.0,Male,East,Basic,59,37.82,2311.3,Debit Card,2,No
+CUST11200,50.0,Female,South,Basic,52,24.39,1151.7,Bank Transfer,1,No
+CUST11201,63.0,Female,East,Basic,14,22.82,308.46,Debit Card,1,No
+CUST11202,42.0,Male,South,Premium,34,62.65,2328.55,Debit Card,4,No
+CUST11203,69.0,Female,South,Basic,50,26.2,1359.69,Bank Transfer,2,No
+CUST11204,57.0,Female,South,Standard,18,66.55,1312.67,Credit Card,4,Yes
+CUST11205,51.0,Female,South,Standard,41,66.98,2703.88,Debit Card,0,No
+CUST11206,64.0,Female,West,Standard,2,52.26,105.67,PayPal,4,Yes
+CUST11207,44.0,Female,South,Basic,53,16.08,928.75,Credit Card,2,Yes
+CUST11208,55.0,Male,South,Basic,37,16.9,667.6,Debit Card,6,No
+CUST11209,32.0,Female,East,Standard,45,40.5,1791.61,UPI,2,No
+CUST11210,68.0,Female,West,Basic,50,26.9,1217.2,Credit Card,1,No
+CUST11211,50.0,Female,South,Standard,14,60.05,919.45,Debit Card,0,Yes
+CUST11212,58.0,Male,West,Standard,28,52.19,1567.99,Credit Card,2,Yes
+CUST11213,41.0,Female,South,Standard,52,48.19,2502.91,Debit Card,1,No
+CUST11214,63.0,Male,East,Basic,10,23.78,242.6,Bank Transfer,3,Yes
+CUST11215,21.0,Female,West,Standard,50,30.91,1460.42,Debit Card,0,No
+CUST11216,23.0,Male,South,Basic,18,28.11,501.26,Debit Card,1,No
+CUST11217,44.0,Female,North,Standard,35,43.98,1440.64,Debit Card,0,No
+CUST11218,56.0,Female,East,Basic,31,20.07,588.78,PayPal,0,Yes
+CUST11219,60.0,Male,North,Premium,42,83.15,3793.34,Credit Card,2,No
+CUST11220,40.0,Female,South,Standard,51,54.61,2728.69,Bank Transfer,3,No
+CUST11221,51.0,Male,West,Basic,21,23.83,540.08,Debit Card,4,No
+CUST11222,46.0,Female,South,Basic,11,28.21,311.63,PayPal,3,Yes
+CUST11223,67.0,Female,East,Basic,26,25.04,596.07,Debit Card,3,No
+CUST11224,52.0,Male,East,Basic,37,26.92,975.66,Credit Card,1,Yes
+CUST11225,39.0,Male,North,Basic,46,20.92,899.6,UPI,3,No
+CUST11226,68.0,Male,South,Premium,46,80.41,3893.37,Credit Card,0,No
+CUST11227,23.0,Male,East,Standard,21,36.46,842.61,Bank Transfer,1,Yes
+CUST11228,69.0,Female,North,Basic,57,32.78,1995.28,UPI,2,Yes
+CUST11229,26.0,Female,South,Standard,5,44.06,236.0,UPI,2,Yes
+CUST11230,32.0,Male,South,Basic,8,29.04,253.14,Credit Card,4,Yes
+CUST11231,60.0,Female,West,Premium,2,70.04,150.01,Bank Transfer,4,Yes
+CUST11232,56.0,Male,North,Basic,56,30.73,1764.05,Debit Card,2,No
+CUST11233,68.0,Female,West,Standard,11,58.22,677.01,PayPal,1,No
+CUST11234,56.0,Male,South,Standard,37,41.19,1511.09,Bank Transfer,3,Yes
+CUST11235,51.0,Female,East,Basic,49,34.23,1535.66,UPI,2,No
+CUST11236,,Female,East,Basic,47,23.71,1175.91,Bank Transfer,0,No
+CUST11237,18.0,Male,South,Standard,57,47.12,2843.67,UPI,3,No
+CUST11238,24.0,Female,West,Premium,4,60.18,228.5,UPI,0,Yes
+CUST11239,33.0,Other,North,Standard,25,49.61,1376.51,Credit Card,2,No
+CUST11240,20.0,Male,North,Standard,31,48.68,1375.61,UPI,3,Yes
+CUST11241,44.0,Male,West,Standard,42,43.71,1949.48,Debit Card,3,No
+CUST11242,58.0,Female,East,Premium,38,76.82,3249.22,Credit Card,3,Yes
+CUST11243,68.0,Male,West,Standard,34,49.52,1629.82,Bank Transfer,2,Yes
+CUST11244,,Male,South,Standard,19,58.5,1223.48,Credit Card,3,Yes
+CUST11245,63.0,Male,North,Standard,7,48.44,366.82,UPI,1,Yes
+CUST11246,69.0,Female,North,Basic,26,22.75,629.18,Credit Card,2,Yes
+CUST11247,62.0,Male,South,Premium,16,87.17,1547.91,Debit Card,7,Yes
+CUST11248,42.0,Male,North,Basic,34,21.7,770.18,Bank Transfer,1,No
+CUST11249,34.0,Female,West,Basic,48,25.72,1245.52,Credit Card,1,Yes
+CUST11250,68.0,Female,North,Premium,34,76.88,2741.09,UPI,3,No
+CUST11251,30.0,Female,West,Basic,35,28.42,985.35,UPI,1,No
+CUST11252,,Male,North,Basic,3,26.62,77.58,Bank Transfer,2,Yes
+CUST11253,21.0,Female,North,Basic,39,24.71,884.76,Credit Card,3,Yes
+CUST11254,59.0,Female,South,Standard,27,45.36,1204.1,Bank Transfer,2,Yes
+CUST11255,51.0,Male,North,Premium,8,91.48,787.97,UPI,1,No
+CUST11256,22.0,Female,South,Basic,13,28.64,412.53,Debit Card,2,Yes
+CUST11257,29.0,Male,South,Basic,47,19.14,1002.61,Debit Card,2,Yes
+CUST11258,,Male,East,Standard,56,40.77,2158.54,Debit Card,3,No
+CUST11259,46.0,Male,East,Premium,31,93.62,2976.85,UPI,2,No
+CUST11260,59.0,Female,North,Basic,59,32.43,1964.39,Credit Card,3,Yes
+CUST11261,31.0,Male,North,Premium,11,76.67,791.7,Debit Card,1,Yes
+CUST11262,66.0,Male,North,Premium,18,89.63,1658.45,UPI,2,Yes
+CUST11263,41.0,Male,North,Basic,56,27.11,1487.51,UPI,3,No
+CUST11264,60.0,Male,North,Premium,11,81.3,990.28,Credit Card,3,No
+CUST11265,30.0,Male,South,Standard,40,46.16,1765.43,Debit Card,2,No
+CUST11266,19.0,Female,East,Standard,14,46.9,711.55,Debit Card,0,No
+CUST11267,20.0,Male,South,Standard,20,45.22,992.41,UPI,4,Yes
+CUST11268,37.0,Male,South,Premium,29,74.65,2298.84,PayPal,5,Yes
+CUST11269,67.0,Female,South,Standard,22,44.12,919.42,UPI,2,No
+CUST11270,20.0,Male,East,Standard,53,39.42,2000.01,UPI,5,No
+CUST11271,37.0,Female,South,Premium,59,73.45,4826.04,Credit Card,3,Yes
+CUST11272,23.0,Male,North,Standard,31,48.27,1371.7,PayPal,2,No
+CUST11273,66.0,Male,South,Premium,32,84.79,2511.84,Debit Card,2,No
+CUST11274,53.0,Male,North,Premium,4,74.83,333.83,Debit Card,3,Yes
+CUST11275,57.0,Male,South,Basic,15,20.21,324.65,Credit Card,3,No
+CUST11276,55.0,Male,West,Basic,3,25.12,80.2,Credit Card,1,Yes
+CUST11277,52.0,Female,South,Standard,52,45.83,2228.84,Bank Transfer,1,No
+CUST11278,58.0,Male,North,Premium,14,69.05,974.01,Credit Card,1,Yes
+CUST11279,18.0,Female,East,Basic,21,29.18,664.85,Debit Card,1,Yes
+CUST11280,63.0,Female,North,Standard,51,54.6,2707.61,Credit Card,1,No
+CUST11281,56.0,Male,North,Basic,43,23.75,962.43,PayPal,4,Yes
+CUST11282,56.0,Female,North,Standard,38,40.97,1404.92,Bank Transfer,1,No
+CUST11283,38.0,Male,West,Standard,3,29.71,92.42,PayPal,1,Yes
+CUST11284,59.0,Male,West,Basic,34,33.79,1108.23,Bank Transfer,2,No
+CUST11285,37.0,Male,East,Premium,34,89.96,3333.94,PayPal,0,Yes
+CUST11286,20.0,Female,East,Basic,20,19.99,384.76,UPI,1,No
+CUST11287,65.0,Female,East,Premium,45,66.78,2804.8,Credit Card,4,No
+CUST11288,30.0,Male,East,Basic,56,17.01,1058.58,Debit Card,2,No
+CUST11289,23.0,Female,East,Premium,16,72.98,1298.75,Debit Card,3,Yes
+CUST11290,50.0,Female,West,Standard,20,44.62,937.65,Bank Transfer,1,Yes
+CUST11291,30.0,Male,East,Basic,20,24.29,536.44,Credit Card,3,No
+CUST11292,62.0,Female,North,Basic,51,34.45,1643.81,Credit Card,3,No
+CUST11293,41.0,Female,South,Basic,5,24.52,122.76,UPI,1,Yes
+CUST11294,18.0,Female,West,Standard,54,49.84,2543.11,Credit Card,3,No
+CUST11295,67.0,Other,South,Premium,47,81.09,3831.55,Credit Card,2,No
+CUST11296,44.0,Male,North,Standard,30,43.36,1397.14,Credit Card,2,No
+CUST11297,31.0,Male,West,Standard,36,36.6,1430.76,UPI,2,Yes
+CUST11298,53.0,Female,East,Standard,54,47.18,2295.28,Credit Card,4,No
+CUST11299,45.0,Male,East,Standard,47,37.22,1724.31,Credit Card,3,Yes
+CUST11300,19.0,Male,South,Standard,17,50.12,953.17,Credit Card,2,No
+CUST11301,57.0,Other,North,Standard,4,43.76,180.23,Bank Transfer,1,Yes
+CUST11302,38.0,Male,South,Standard,40,34.37,1326.91,Credit Card,3,No
+CUST11303,54.0,Male,South,Premium,9,69.42,615.77,Credit Card,2,No
+CUST11304,64.0,Female,West,Standard,6,45.7,266.24,PayPal,2,No
+CUST11305,49.0,Male,South,Basic,59,25.99,1531.07,Bank Transfer,4,No
+CUST11306,52.0,Male,North,Basic,29,23.99,694.17,Credit Card,4,No
+CUST11307,31.0,Female,South,Standard,40,44.17,1787.14,Debit Card,0,No
+CUST11308,30.0,Male,West,Basic,14,26.7,374.62,Credit Card,1,Yes
+CUST11309,39.0,Male,South,Premium,7,75.6,536.37,Bank Transfer,6,Yes
+CUST11310,62.0,Male,South,Standard,4,45.67,165.54,Debit Card,1,No
+CUST11311,45.0,Female,East,Standard,22,52.76,1058.55,PayPal,2,Yes
+CUST11312,36.0,Male,East,Standard,1,54.75,53.75,Bank Transfer,4,Yes
+CUST11313,58.0,Female,South,Basic,26,32.1,913.63,UPI,2,No
+CUST11314,62.0,Male,West,Premium,20,83.8,1800.0,Credit Card,2,Yes
+CUST11315,64.0,Male,East,Basic,32,25.84,764.23,Bank Transfer,2,Yes
+CUST11316,33.0,Female,North,Standard,36,55.97,2032.78,Bank Transfer,1,No
+CUST11317,54.0,Female,South,Premium,19,69.66,1367.23,Bank Transfer,2,Yes
+CUST11318,48.0,Female,West,Standard,28,48.86,1376.1,Credit Card,3,Yes
+CUST11319,41.0,Male,South,Premium,5,91.37,481.28,Bank Transfer,0,Yes
+CUST11320,38.0,Female,East,Standard,19,54.79,1165.3,Bank Transfer,3,Yes
+CUST11321,23.0,Female,East,Premium,59,78.23,4251.98,PayPal,2,No
+CUST11322,32.0,Male,East,Standard,60,46.69,2838.99,UPI,2,No
+CUST11323,46.0,Male,West,Standard,30,60.22,1829.58,UPI,2,No
+CUST11324,64.0,Female,North,Basic,57,29.0,1692.21,Debit Card,1,No
+CUST11325,63.0,Male,East,Basic,31,26.58,771.85,Bank Transfer,1,Yes
+CUST11326,27.0,Female,East,Standard,8,49.82,414.68,PayPal,3,Yes
+CUST11327,53.0,Female,North,Basic,53,26.66,1285.47,UPI,1,No
+CUST11328,22.0,Male,East,Standard,25,46.84,1244.83,Credit Card,2,Yes
+CUST11329,53.0,Male,North,Premium,37,93.06,3601.25,Credit Card,1,Yes
+CUST11330,35.0,Male,South,Premium,39,79.93,3032.15,UPI,4,Yes
+CUST11331,41.0,Male,South,Basic,19,26.33,559.09,Bank Transfer,2,Yes
+CUST11332,55.0,Male,North,Premium,45,80.81,3935.84,Credit Card,4,No
+CUST11333,40.0,Female,West,Basic,31,29.52,932.23,Debit Card,2,No
+CUST11334,59.0,Male,North,Standard,22,32.46,798.32,PayPal,2,No
+CUST11335,45.0,Female,South,Premium,18,88.15,1717.79,UPI,2,Yes
+CUST11336,69.0,Male,West,Basic,45,23.62,988.87,Credit Card,2,No
+CUST11337,51.0,Male,West,Basic,15,28.78,444.67,Debit Card,4,Yes
+CUST11338,33.0,Male,North,Basic,8,25.39,208.76,Debit Card,2,No
+CUST11339,58.0,Female,South,Standard,53,42.53,2352.48,Credit Card,6,No
+CUST11340,39.0,Male,East,Premium,20,82.77,1832.47,UPI,4,Yes
+CUST11341,45.0,Male,West,Basic,39,25.73,1011.75,UPI,1,No
+CUST11342,25.0,Female,West,Basic,43,37.97,1497.23,UPI,2,No
+CUST11343,24.0,Female,East,Standard,51,62.74,3217.19,UPI,2,No
+CUST11344,47.0,Male,North,Basic,38,28.56,1164.85,Credit Card,4,No
+CUST11345,27.0,Female,West,Standard,43,53.69,2259.94,Credit Card,1,Yes
+CUST11346,69.0,Male,North,Premium,51,87.02,4020.68,Credit Card,2,Yes
+CUST11347,62.0,Male,North,Standard,57,55.27,3045.52,Credit Card,2,No
+CUST11348,54.0,Female,East,Premium,3,76.94,242.38,Bank Transfer,1,Yes
+CUST11349,56.0,Male,East,Standard,45,48.95,2024.16,Credit Card,4,Yes
+CUST11350,48.0,Male,North,Premium,11,69.36,749.77,UPI,1,Yes
+CUST11351,21.0,Female,North,Basic,54,14.47,726.13,Credit Card,5,No
+CUST11352,38.0,Male,East,Basic,3,22.28,67.15,Credit Card,3,Yes
+CUST11353,43.0,Female,South,Standard,15,53.91,752.96,Credit Card,4,No
+CUST11354,65.0,Female,East,Basic,12,23.92,265.22,UPI,1,Yes
+CUST11355,29.0,Female,South,Premium,37,77.66,3027.19,UPI,4,No
+CUST11356,43.0,Female,East,Standard,1,50.06,46.79,Bank Transfer,4,Yes
+CUST11357,35.0,Female,South,Premium,2,86.56,161.7,Credit Card,5,Yes
+CUST11358,24.0,Other,South,Basic,31,28.31,904.25,UPI,5,Yes
+CUST11359,23.0,Male,South,Standard,59,51.17,2746.08,Bank Transfer,4,No
+CUST11360,36.0,Male,East,Standard,32,49.42,1434.77,Debit Card,0,No
+CUST11361,22.0,Female,East,Basic,27,24.86,667.81,Credit Card,1,No
+CUST11362,21.0,Female,East,Standard,40,49.28,1932.41,Credit Card,3,No
+CUST11363,36.0,Male,East,Standard,34,47.06,1631.75,Credit Card,3,Yes
+CUST11364,28.0,Female,North,Premium,24,93.75,2516.77,Bank Transfer,1,Yes
+CUST11365,46.0,Male,West,Standard,36,44.85,1607.55,Debit Card,0,Yes
+CUST11366,18.0,Female,East,Basic,1,19.53,20.05,UPI,2,Yes
+CUST11367,33.0,Male,East,Standard,15,38.73,640.34,Bank Transfer,3,Yes
+CUST11368,41.0,Male,West,Standard,41,45.32,1869.83,Debit Card,1,No
+CUST11369,68.0,Male,West,Basic,21,15.14,340.78,UPI,4,Yes
+CUST11370,50.0,Male,East,Standard,4,66.32,270.77,Credit Card,1,Yes
+CUST11371,63.0,Male,West,Basic,8,29.34,244.15,UPI,2,Yes
+CUST11372,35.0,Male,South,Basic,52,27.26,1566.57,Credit Card,3,No
+CUST11373,41.0,Male,East,Standard,20,51.99,935.98,Credit Card,2,Yes
+CUST11374,39.0,Male,South,Basic,2,31.26,68.66,Debit Card,1,Yes
+CUST11375,64.0,Male,East,Standard,44,59.89,2660.17,Bank Transfer,4,Yes
+CUST11376,67.0,Male,North,Basic,32,39.0,1289.79,UPI,3,Yes
+CUST11377,68.0,Male,West,Standard,28,46.39,1297.64,Bank Transfer,1,No
+CUST11378,57.0,Male,North,Basic,54,25.82,1334.89,Credit Card,1,No
+CUST11379,44.0,Male,East,Premium,19,96.2,1671.56,PayPal,6,No
+CUST11380,46.0,Male,North,Basic,35,22.2,860.86,Credit Card,1,Yes
+CUST11381,68.0,Male,North,Standard,45,43.65,2037.42,Bank Transfer,0,No
+CUST11382,32.0,Female,West,Basic,37,21.76,879.32,Bank Transfer,2,No
+CUST11383,36.0,Other,West,Basic,13,26.99,338.23,UPI,2,No
+CUST11384,64.0,Female,North,Standard,41,53.24,2098.06,Debit Card,3,No
+CUST11385,38.0,Female,North,Premium,45,72.31,3168.93,Bank Transfer,3,Yes
+CUST11386,30.0,Female,West,Premium,8,104.47,794.66,Bank Transfer,3,Yes
+CUST11387,47.0,Male,West,Basic,10,24.31,245.42,Credit Card,2,No
+CUST11388,34.0,Female,North,Basic,41,15.36,696.5,Bank Transfer,4,No
+CUST11389,64.0,Female,East,Standard,8,59.24,517.87,Credit Card,1,No
+CUST11390,65.0,Female,South,Standard,53,54.7,2924.97,UPI,5,No
+CUST11391,33.0,Female,East,Basic,7,20.59,140.78,UPI,0,Yes
+CUST11392,45.0,Male,South,Standard,59,62.48,3813.76,Bank Transfer,2,Yes
+CUST11393,69.0,Female,North,Standard,41,43.82,1858.96,UPI,3,No
+CUST11394,56.0,Female,South,Standard,27,61.99,1758.13,Credit Card,2,Yes
+CUST11395,29.0,Male,East,Standard,17,38.28,662.36,UPI,3,Yes
+CUST11396,48.0,Female,West,Standard,21,55.97,1064.75,Debit Card,4,No
+CUST11397,50.0,Male,North,Basic,45,28.04,1156.73,UPI,2,Yes
+CUST11398,51.0,Other,West,Standard,46,42.56,2181.4,UPI,1,No
+CUST11399,19.0,Female,East,Basic,13,30.5,421.94,Bank Transfer,2,Yes
+CUST11400,33.0,Male,West,Standard,33,57.56,2105.79,Credit Card,1,No
+CUST11401,62.0,Female,West,Standard,60,57.32,3352.17,Credit Card,7,No
+CUST11402,30.0,Male,North,Standard,16,51.72,842.16,UPI,2,No
+CUST11403,33.0,Female,North,Basic,42,13.27,541.08,Credit Card,3,No
+CUST11404,34.0,Female,West,Basic,11,23.55,284.95,Credit Card,1,Yes
+CUST11405,27.0,Female,North,Standard,51,52.43,2575.8,Debit Card,2,No
+CUST11406,26.0,Female,North,Standard,11,54.33,629.09,UPI,3,No
+CUST11407,36.0,Male,South,Premium,18,60.78,1026.77,Debit Card,1,No
+CUST11408,63.0,Male,West,Standard,28,56.74,1466.64,UPI,1,No
+CUST11409,18.0,Male,West,Premium,23,104.32,2241.58,Bank Transfer,4,Yes
+CUST11410,32.0,Male,East,Basic,11,19.14,214.01,UPI,1,No
+CUST11411,21.0,Male,North,Standard,39,38.93,1648.54,Debit Card,3,No
+CUST11412,47.0,Male,South,Basic,2,23.83,53.37,Credit Card,3,No
+CUST11413,31.0,Male,East,Standard,60,63.14,3928.53,Credit Card,2,No
+CUST11414,59.0,Male,North,Basic,4,17.21,70.04,UPI,1,No
+CUST11415,48.0,Female,East,Basic,21,28.25,636.62,UPI,1,No
+CUST11416,58.0,Male,North,Standard,56,56.05,2868.94,Credit Card,5,No
+CUST11417,51.0,Female,South,Standard,10,33.46,360.72,Credit Card,1,No
+CUST11418,40.0,Male,North,Basic,5,22.83,121.78,Debit Card,1,No
+CUST11419,62.0,Male,East,Basic,45,24.8,1134.41,Debit Card,2,No
+CUST11420,42.0,Female,West,Standard,5,26.82,121.37,PayPal,3,Yes
+CUST11421,67.0,Male,North,Basic,54,33.44,1705.51,Credit Card,2,No
+CUST11422,69.0,Male,West,Basic,28,10.83,297.58,Credit Card,2,No
+CUST11423,48.0,Female,East,Standard,53,58.02,3404.3,Debit Card,0,No
+CUST11424,53.0,Male,West,Basic,15,25.03,390.64,Credit Card,1,No
+CUST11425,31.0,Male,West,Standard,9,57.06,519.82,Credit Card,2,No
+CUST11426,60.0,Female,North,Standard,58,51.72,3022.12,Debit Card,2,No
+CUST11427,52.0,Male,East,Basic,46,24.37,1201.28,Debit Card,4,No
+CUST11428,64.0,Female,East,Basic,55,21.71,1159.66,Credit Card,4,No
+CUST11429,31.0,Male,North,Basic,20,25.32,466.29,UPI,2,Yes
+CUST11430,58.0,Female,South,Basic,25,28.14,737.94,UPI,0,No
+CUST11431,42.0,Female,West,Basic,35,23.82,810.68,Credit Card,3,No
+CUST11432,27.0,Female,East,Premium,27,80.02,2099.25,Bank Transfer,3,No
+CUST11433,26.0,Female,South,Premium,15,53.54,803.13,Debit Card,1,Yes
+CUST11434,47.0,Male,South,Standard,23,46.74,1024.93,PayPal,1,Yes
+CUST11435,34.0,Female,West,Standard,37,42.37,1728.81,PayPal,2,No
+CUST11436,23.0,Male,South,Standard,3,60.22,196.26,Debit Card,1,Yes
+CUST11437,40.0,Female,North,Premium,21,85.07,1997.34,Credit Card,2,No
+CUST11438,51.0,Female,East,Basic,18,31.31,626.81,Bank Transfer,1,No
+CUST11439,34.0,Male,West,Basic,5,27.96,135.49,Debit Card,1,No
+CUST11440,67.0,Female,North,Basic,8,30.85,242.78,Credit Card,4,Yes
+CUST11441,58.0,Male,South,Basic,30,19.94,630.27,UPI,3,No
+CUST11442,44.0,Female,South,Basic,7,23.14,146.35,UPI,1,No
+CUST11443,66.0,Female,North,Premium,21,82.03,1927.03,Bank Transfer,0,Yes
+CUST11444,40.0,Male,East,Premium,34,96.07,2947.53,Bank Transfer,3,Yes
+CUST11445,25.0,Female,South,Basic,53,31.26,1684.82,Bank Transfer,2,No
+CUST11446,19.0,Female,North,Standard,6,38.94,244.65,Bank Transfer,2,Yes
+CUST11447,66.0,Male,South,Standard,27,51.58,1533.47,UPI,1,No
+CUST11448,67.0,Female,West,Standard,7,67.12,489.44,UPI,3,Yes
+CUST11449,56.0,Male,West,Standard,26,43.05,1154.37,PayPal,8,Yes
+CUST11450,23.0,Female,East,Basic,29,27.93,782.5,PayPal,2,Yes
+CUST11451,33.0,Male,South,Premium,48,103.5,5117.05,Bank Transfer,1,No
+CUST11452,20.0,Female,West,Premium,27,80.58,2316.94,Bank Transfer,2,No
+CUST11453,20.0,Female,North,Standard,57,69.84,4034.34,UPI,1,No
+CUST11454,30.0,Male,East,Standard,9,44.14,425.67,Debit Card,2,Yes
+CUST11455,47.0,Male,East,Standard,4,42.08,154.07,Bank Transfer,3,No
+CUST11456,21.0,Female,East,Basic,1,25.81,25.13,Credit Card,4,Yes
+CUST11457,69.0,Female,North,Basic,22,27.08,661.98,Credit Card,7,No
+CUST11458,41.0,Male,East,Standard,12,48.43,564.4,Debit Card,1,No
+CUST11459,31.0,Male,East,Basic,6,23.17,144.14,UPI,2,No
+CUST11460,44.0,Male,West,Premium,15,97.86,1489.0,UPI,3,Yes
+CUST11461,59.0,Other,North,Standard,59,54.91,3583.28,Credit Card,0,No
+CUST11462,34.0,Male,East,Standard,49,53.66,2460.56,Credit Card,0,No
+CUST11463,20.0,Female,West,Basic,2,25.19,48.66,Credit Card,2,Yes
+CUST11464,20.0,Male,South,Premium,55,77.05,4617.97,Debit Card,2,No
+CUST11465,62.0,Female,East,Basic,13,33.59,457.0,Credit Card,1,No
+CUST11466,23.0,Male,North,Basic,25,28.93,737.33,UPI,0,Yes
+CUST11467,51.0,Male,East,Basic,20,31.07,613.25,Credit Card,2,Yes
+CUST11468,37.0,Female,East,Standard,25,39.62,981.08,Debit Card,3,No
+CUST11469,58.0,Female,North,Premium,46,84.01,4272.87,Debit Card,0,No
+CUST11470,21.0,Male,North,Basic,43,23.82,1073.05,UPI,2,No
+CUST11471,64.0,Male,East,Premium,36,79.68,3167.95,Bank Transfer,2,No
+CUST11472,54.0,Male,North,Basic,38,19.96,844.86,Credit Card,3,No
+CUST11473,41.0,Male,South,Standard,44,64.22,2883.16,Debit Card,4,Yes
+CUST11474,28.0,Male,North,Basic,12,29.42,365.11,UPI,2,No
+CUST11475,68.0,Female,West,Standard,24,48.73,1221.45,Credit Card,1,No
+CUST11476,33.0,Male,East,Standard,7,40.33,306.2,Bank Transfer,6,Yes
+CUST11477,43.0,Female,West,Standard,43,60.7,2727.54,PayPal,1,Yes
+CUST11478,38.0,Male,North,Basic,27,28.6,714.46,UPI,5,No
+CUST11479,29.0,Male,North,Premium,39,93.77,4049.56,PayPal,2,Yes
+CUST11480,39.0,Female,East,Premium,34,98.36,3496.09,Debit Card,2,No
+CUST11481,25.0,Male,East,Standard,17,58.21,1080.0,Debit Card,1,No
+CUST11482,18.0,Female,West,Standard,9,30.59,273.5,Credit Card,2,Yes
+CUST11483,33.0,Male,West,Standard,59,43.4,2571.96,Credit Card,3,No
+CUST11484,23.0,Female,West,Basic,18,12.5,236.6,Credit Card,2,No
+CUST11485,39.0,Female,North,Premium,7,92.96,696.8,UPI,1,Yes
+CUST11486,62.0,Female,South,Basic,19,24.69,430.3,UPI,3,No
+CUST11487,26.0,Male,West,Standard,55,43.34,2358.95,Credit Card,1,No
+CUST11488,18.0,Male,East,Basic,16,33.42,571.81,UPI,1,No
+CUST11489,23.0,Male,West,Basic,60,27.91,1872.69,Credit Card,1,No
+CUST11490,44.0,Female,East,Standard,28,54.34,1373.27,Debit Card,3,Yes
+CUST11491,32.0,Male,North,Standard,52,41.11,2048.49,Credit Card,4,Yes
+CUST11492,43.0,Male,South,Premium,40,,2741.4,UPI,1,Yes
+CUST11493,19.0,Male,West,Premium,3,88.7,252.54,UPI,0,Yes
+CUST11494,35.0,Male,East,Basic,31,24.3,682.43,Bank Transfer,0,No
+CUST11495,39.0,Male,North,Basic,26,19.55,517.8,Credit Card,4,Yes
+CUST11496,40.0,Male,North,Standard,13,45.74,620.11,Debit Card,0,No
+CUST11497,46.0,Male,West,Standard,33,43.64,1427.93,PayPal,1,Yes
+CUST11498,58.0,Female,West,Standard,7,60.89,418.29,Credit Card,4,Yes
+CUST11499,42.0,Male,West,Premium,42,96.22,4513.4,Debit Card,4,No
+CUST11500,61.0,Male,North,Standard,50,60.01,3015.67,Credit Card,0,Yes
